@@ -70,27 +70,27 @@ Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt ng
 1. SQL là gì? <br>
 Trả lời: SQL là viết tắt của cụm từ "Structured Query Language." - ngôn ngữ truy vấn mang tính cấu trúc. Nó được thiết kế để quản lý dữ liệu trong một hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS). SQL là ngôn ngữ cơ sở dữ liệu, được dùng để tạo, xóa, lấy các hàng và sửa đổi các hàng, … Tất cả hệ quản trị cơ sở dữ liệu (Database Management System - DBMS) như MySQL, Oracle, MS Access, Sybase, Informix, Postgres và SQL Server đều sử dụng SQL như là ngôn ngữ cơ sở dữ liệu chuẩn.<br>
 
-2.Định nghĩa từ khóa "JOIN" và các loại "JOIN" khác nhau? <br>
+2. Định nghĩa từ khóa "JOIN" và các loại "JOIN" khác nhau? <br>
 Trả lời: Từ khóa "JOIN" được sử dụng để lấy dữ liệu từ 2 hay nhiều bảng liên quan. Đây là phép kết hợp các dòng dữ liệu từ nhiều bảng lại với nhau. Khi bạn cần truy vấn các cột dữ liệu từ nhiều bảng khác nhau để trả về trong cùng một tập kết quả, bạn cần dùng từ khóa "JOIN". Các loại JOIN như inner join , outer join : leftjoin , right join and fulljoin <br>
 
-3.Primary key là gì?  <br>
+3. Primary key là gì?  <br>
 Trả lời: Một PRIMARY KEY- Khóa chính là một trường trong một bảng mà nhận diện một cách duy nhất mỗi hàng/bản ghi trong một bảng dữ liệu. Các PRIMARY KEY phải chứa các giá trị duy nhất, không được sử dụng lại. Một cột là PRIMARY KEY thì không được phép có giá trị NULL. Một bảng chỉ cho phép tối đa một PRIMARY KEY, bao gồm một trường đơn hay nhiều trường. Mỗi bảng đều cần có khóa <br>
  
-4.Foreign keys là gì? <br>
+4. Foreign keys là gì? <br>
 Trả lời: FOREIGN KEY - Khóa ngoại là một trường trong bảng cơ sở dữ liệu, đó là khóa chính trong một bảng khác được thêm vào tạo ra sự liên quan giữa hai bảng. Trong bảng, giá trị của FOREIGN KEY có thể chấp nhận giá trị NULL, cũng như các giá trị trùng nhau. <br>
 
 5. CHECK Constraint - Ràng buộc CHECK là gì? <br> 
 Trả lời: Một ràng buộc CHECK được sử dụng để giới hạn các giá trị hoặc kiểu của dữ liệu có thể nhập và lưu trữ trong một trường của bản ghi. Nếu bản ghi không đáp ứng được điều kiện này, thì sẽ không được lưu trữ vào trong bảng.<br>
 
-6.STORED PROCEDURE là gì? <br>
+6. STORED PROCEDURE là gì? <br>
 Trả lời: STORED PROCEDURE là một tập hợp các câu lệnh SQL dùng để thực thi một nhiệm vụ nhất định. Nó hoạt động giống như một hàm trong các ngôn ngữ lập trình khác. STORED PROCEDURE là một khái niệm khá phổ biến và được hầu hết các hệ quản trị cơ sở dữ liệu (DBMS) hỗ trợ, tuy nhiên không phải tất cả đều hỗ trợ STORED PROCEDURE.<br>
 
-7.NORMALIZATION - Chuẩn hóa dữ liệu là gì? <br>
+7. NORMALIZATION - Chuẩn hóa dữ liệu là gì? <br>
 Trả lời: Quá trình thiết kế bảng để giảm thiểu sự dư thừa số liệu, loại bỏ các thay đổi dữ liệu dị thường (update anomaly, insertion anomaly, deletion anomaly) được gọi là quá trình chuẩn hóa dữ liệu. Để thực hiện quá trình này, chúng ta cần phải chia một cơ sở dữ liệu thành hai hay nhiều bảng và xác định các mối quan hệ giữa chúng.<br>
 
-8.TRIGGER là gì? <br> Trả lời: TRIGGER được hiểu đơn giản là một thủ tục (một tập các câu lệnh SQL được lưu trữ trong CSDL) được thực thi từ phía máy chủ cơ sở dữ liệu (CSDL) khi có một sự kiện xảy ra như Update, Insert hay Delete. TRIGGER thường dùng để kiểm ra các ràng buộc toàn vẹn trên CSDL, và chúng được thực thi một cách tự động mà không cần sự can thiệp bằng các thao tác thủ công như kiểm tra dữ liệu, đồng bộ hóa dữ liệu <br>
+8. TRIGGER là gì? <br> Trả lời: TRIGGER được hiểu đơn giản là một thủ tục (một tập các câu lệnh SQL được lưu trữ trong CSDL) được thực thi từ phía máy chủ cơ sở dữ liệu (CSDL) khi có một sự kiện xảy ra như Update, Insert hay Delete. TRIGGER thường dùng để kiểm ra các ràng buộc toàn vẹn trên CSDL, và chúng được thực thi một cách tự động mà không cần sự can thiệp bằng các thao tác thủ công như kiểm tra dữ liệu, đồng bộ hóa dữ liệu <br>
 
-9.Sự khác nhau giữa các câu lệnh TRUNCATE, DELETE và DROP? <br>
+9. Sự khác nhau giữa các câu lệnh TRUNCATE, DELETE và DROP? <br>
 Trả lời:
 Lệnh DELETE có tác dụng xóa một số hoặc tất cả các hàng từ một bảng dựa trên những điều kiện được chỉ định. Các bản ghi này cũng có thể được phục hồi lại (Roll back).<br>
 Lệnh TRUNCATE xóa toàn bộ các bản ghỉ từ bảng bằng cách phân chia lại bộ nhớ các trang. Xử lý này không thể được phục hồi.<br>
