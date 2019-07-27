@@ -40,20 +40,17 @@ Phần này thường hỏi đối với người đã có kinh nghiệm đi là
 9. Restful Webservice là gì ? <br>
 
 ## HTML
-1. HTML là gì ?
-HTML viết tắt của Hyper Text Markup Language (ngôn ngữ đánh dấu siêu văn bản). Nó là một ngôn ngữ của World Wide Web. Đây là một ngôn ngữ định dạng văn bản chuẩn được sử dụng để tạo và hiển thị các trang trên Web.
-<br>
+1. HTML là gì ? <br>
+Trả lời : HTML viết tắt của Hyper Text Markup Language (ngôn ngữ đánh dấu siêu văn bản). Nó là một ngôn ngữ của World Wide Web. Đây là một ngôn ngữ định dạng văn bản chuẩn được sử dụng để tạo và hiển thị các trang trên Web. <br>
 2. Khai báo <!DOCTYPE> trong HTML có tác dụng gì? <br> 
-
 3. Điểm khác biệt giữa “visibility:hidden” và “display:none”? <br>
 4. Thẻ “div” và thẻ “span” khác nhau thế nào? <br>
 5. Canvas trong HTML 5 là gì? <br>
 Trả lời : Canvas là một khoảng trống HTML được sử dụng để vẽ đồ họa.<br>
 
 ## Java Script
-1. Javascript dùng để làm gì?
-Trả lời : javascript là ngôn ngữ lập trình kịch bản hướng đối tượng được phát triển bởi Netscape Communications cho các ứng dụng client/server. Javascript là một ngôn ngữ lập trình thông dịch. JavaScript hiển thị các trang web theo cách tương tác và năng động góp phần tạo nên trang web động. Điều này cho phép các trang bắt các sự kiện, hiện thị các hiệu ứng đặc biệt, tự động tạo nội dung HTML, xác thực dữ liệu, tạo cookie, lấy thông tin trình duyệt của người dùng, 
-<br>
+1. Javascript dùng để làm gì? <br>
+Trả lời : javascript là ngôn ngữ lập trình kịch bản hướng đối tượng được phát triển bởi Netscape Communications cho các ứng dụng client/server. Javascript là một ngôn ngữ lập trình thông dịch. JavaScript hiển thị các trang web theo cách tương tác và năng động góp phần tạo nên trang web động. Điều này cho phép các trang bắt các sự kiện, hiện thị các hiệu ứng đặc biệt, tự động tạo nội dung HTML, xác thực dữ liệu, tạo cookie, lấy thông tin trình duyệt của người dùng <br>
 2.“this” trong Javascript dùng để làm gì?
 ## CSS
 1. CSS framework là gì?
