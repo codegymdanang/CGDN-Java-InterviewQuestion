@@ -5,7 +5,10 @@ Trả lời: lập trình hướng đối tượng là 1 kỹ thuật lập trì
 Ví dụ : Trong thực tế để quản lý 1 khách sạn thì mình có các công việc như quản lý khách tới khách sạn, mình có kế toán để thống kê tài chính, mình có bảo vệ. Như vậy lập trình hướng đối tượng thì trong thực tế có đối tượng khách hàng thì trong lập trình mình cũng có đối tượng khách hàng. Trong thực tế khách hàng có tên , tuổi, địa chỉ thì trong lập trình hướng đối tượng mình cũng có tên tuổi địa chỉ. Hướng đối tượng là ngoài thực tế có cái gì thì mình ánh xạ y chang trong lập trình
 
 2. Các tính chất của lập trình hướng đối tượng trong Java? <br>
-Trả lời: Có 4 tính chất (tính trừu tượng, tính đóng gói, tính kế thừa, tính đa hình)  https://stackjava.com/oop/cac-tinh-chat-huong-doi-tuong-cua-java.html <br>
+Trả lời: Có 4 tính chất (tính trừu tượng, tính đóng gói, tính kế thừa, tính đa hình) 
+https://stackjava.com/oop/cac-tinh-chat-huong-doi-tuong-cua-java.html <br>
+
+
 3. Hỏi về collection Framework (Cái này hầu như 100% ở đâu phỏng vấn cũng hỏi)<br>
 Sự khác nhau giữa Set với Map <br>
 Sự khác nhau giữa ArrayList và Array
