@@ -8,7 +8,19 @@ Ví dụ : Trong thực tế để quản lý 1 khách sạn thì mình có các
 2. Các tính chất của lập trình hướng đối tượng trong Java? <br>
 Trả lời: Có 4 tính chất (tính trừu tượng, tính đóng gói, tính kế thừa, tính đa hình) 
 https://stackjava.com/oop/cac-tinh-chat-huong-doi-tuong-cua-java.html <br>
-Cho ví dụ minh hoạ cho mỗi tính chất
+Cho ví dụ minh hoạ cho mỗi tính chất <br>
+Ví dụ tính trừa tượng <br>
+Ví dụ khi mình mua hàng online trên mạng như trang lazada, tiki hay amazon. Mình click vào mua sản phẩm sau đó 1 tuần sau mình nhận được sản phẩm của mình. Trừa tượng ở chổ mình không biết lazada, tiki hay amazon sẽ lấy đơn hàng của mình, đóng gói ra sao và họ vận chuyển như thế nào qua các thành phố và quốc gia. Mình chỉ biết là khi mình bấm vô nút mua hàng thì mình sẽ nhận được hàng mà không cần quan tâm họ làm như thế nào đế ship hàng mình về đúng địa chỉ <br>
+
+Ví dụ tính đa hình <br>
+Ví dụ cũng là phương thức chạy thì con gà chạy bằng 2 chân nhưng con chó chạy bằng 4 chân. Cùng một hành động chạy nhưng ở những ngữ cảnh khác nhau thì hành động khác nhau <br>
+
+Ví dụ tính kế thừa <br>
+Ví dụ như con kế thừa tài sản của cha. Hoặc ví dụ khác như có lớp Animal có các thuộc tính tên, tuổi , và phương thức di chuyển. Nếu con chó kế thừa Animal thì nó sẽ kế thừa các thuộc tính tên , tuổi , và phương thức của lớp cha Animal. Chúng ta không cần phải khai báo lại biến tên, tuổi trong lớp con chó.
+
+Ví dụ tính đóng gói <br>
+Tính đóng gói hay còn goi là che dấu dữ liệu . Đối với những dữ liêu quan trọng chúng ta không muốn cho các lớp khác truy cập và sử dung thì ta hạn chế không cho các lớp khác truy cập vào biến hay phương thức bảo mật
+
 3. Hỏi về collection Framework (Cái này hầu như 100% ở đâu phỏng vấn cũng hỏi)<br>
 + Sự khác nhau giữa Set với Map <br>
 + Sự khác nhau giữa ArrayList và Array <br>
