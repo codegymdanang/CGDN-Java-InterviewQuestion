@@ -24,9 +24,9 @@ Trả lời: https://stackjava.com/java/immuable-la-gi.html <br>
 8. Sự khác nhau giữa abstract class và Interface.<br>
 Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html <br>
 9.Hỏi về thuật toán. <br>
-+ Tìm kiếm nhị phân
++ Tìm kiếm nhị phân<br>
 + Thuật toán sắp xếp <br>
-
+10. Phân biệt các kiểu dữ liệu trong java. Khác nhau thế nào ?
 ## Java Spring
 1. Khái niệm DI là gì? <br>
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm. <br>
