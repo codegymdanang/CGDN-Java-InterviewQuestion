@@ -9,65 +9,62 @@ Ví dụ : Trong thực tế để quản lý 1 khách sạn thì mình có các
 Trả lời: Có 4 tính chất (tính trừu tượng, tính đóng gói, tính kế thừa, tính đa hình) 
 https://stackjava.com/oop/cac-tinh-chat-huong-doi-tuong-cua-java.html <br>
 Cho ví dụ minh hoạ cho mỗi tính chất
-
 3. Hỏi về collection Framework (Cái này hầu như 100% ở đâu phỏng vấn cũng hỏi)<br>
-Sự khác nhau giữa Set với Map <br>
-Sự khác nhau giữa ArrayList và Array
-Sự khác nhau giữa Linklist với Arraylist; Vector với Arraylist; HashTable với HashMap<br>
++ Sự khác nhau giữa Set với Map <br>
++ Sự khác nhau giữa ArrayList và Array <br>
++ Sự khác nhau giữa Linklist với Arraylist <br>
++ Vector với Arraylist <br> 
++ HashTable với HashMap<br>
 4. Sự khác nhau giữa Hashcode và Equals. <br>
 Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
-4. Sự khác nhau giữa override và overload
-4. Generic là gì?
-5. Immutable là gì? Cách để tạo đối tượng immutable? <br>
+5. Sự khác nhau giữa override và overload
+<br>
+6. Generic là gì? Cho ví dụ minh hoạ <br>
+7. Immutable là gì? Cách để tạo đối tượng immutable? <br>
 Trả lời: https://stackjava.com/java/immuable-la-gi.html
-6. Sự khác nhau giữa abstract class và Interface.<br>
+8. Sự khác nhau giữa abstract class và Interface.<br>
 Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html
+<br>
+9.Hỏi về thuật toán. <br>
++ Tìm kiếm nhị phân
++ Thuật toán sắp xếp
 
 ## Java Spring
 1. Khái niệm DI là gì? <br>
-Phần này thường hỏi đối với người đã có kinh nghiệm đi làm.
-<br>
-2. AOP là gì ? Cho ví dụ minh hoạ
-<br>
-3. Vòng đời của 1 Bean 
-<br>
-4. Giải thích @Autowire làm gì ? <br>
-5. Giải thích @Controller , @Service , @Repository , @Resfult <br>
-7. Webservice là gì ? <br>
-8. Restful Webservice là gì ? <br>
-9. Hỏi về các design pattern (1 số design pattern quen thuộc).
-+ Factory Pattern <br>
-+ Abstract Factory Patter  <br>
-+ Builder <br>
-+ Singleton <br>
-+ Decorator <br>
-+ State  <br>
-+ Strategy <br>
-<br>
-9. Hỏi về thuật toán .
-1 số thuật toán quen thuộc như DFS, BFS, các thuật toán đồ thị, tìm kiếm…, thường thì phần này sẽ rơi vào phần làm bài test nhưng đôi khi cũng sẽ hỏi miệng chủ yếu để xác định bạn có biết tới những thuật toán đó không.
+Phần này thường hỏi đối với người đã có kinh nghiệm đi làm. <br>
+2. AOP là gì ? Cho ví dụ minh hoạ <br>
+3. SpringBoot làm gì ? <br>
+4. Vòng đời của 1 Bean <br>
+5. Giải thích @Autowire làm gì ? <br>
+6. Giải thích @Controller , @Service , @Repository , @Resfult <br>
+7. Giải thích JPA là gì 
+8. Webservice là gì ? <br>
+9. Restful Webservice là gì ? <br>
 
 ## HTML
+1. HTML là gì ?
+HTML viết tắt của Hyper Text Markup Language (ngôn ngữ đánh dấu siêu văn bản). Nó là một ngôn ngữ của World Wide Web. Đây là một ngôn ngữ định dạng văn bản chuẩn được sử dụng để tạo và hiển thị các trang trên Web.
+<br>
+2. Khai báo <!DOCTYPE> trong HTML có tác dụng gì? <br> 
 
-9. Khai báo <!DOCTYPE> trong HTML có tác dụng gì?
-<br> 
-
+3. Điểm khác biệt giữa “visibility:hidden” và “display:none”? <br>
+4. Thẻ “div” và thẻ “span” khác nhau thế nào? <br>
+5. Canvas trong HTML 5 là gì? <br>
+Trả lời : Canvas là một khoảng trống HTML được sử dụng để vẽ đồ họa.
 <br>
 ## Java Script
-9.“this” trong Javascript dùng để làm gì?
+1. Javascript dùng để làm gì?
+Trả lời : javascript là ngôn ngữ lập trình kịch bản hướng đối tượng được phát triển bởi Netscape Communications cho các ứng dụng client/server. Javascript là một ngôn ngữ lập trình thông dịch. JavaScript hiển thị các trang web theo cách tương tác và năng động góp phần tạo nên trang web động. Điều này cho phép các trang bắt các sự kiện, hiện thị các hiệu ứng đặc biệt, tự động tạo nội dung HTML, xác thực dữ liệu, tạo cookie, lấy thông tin trình duyệt của người dùng, 
+<br>
+2.“this” trong Javascript dùng để làm gì?
 ## CSS
 1. CSS framework là gì?
 2. Phân biệt Class và ID như thế nào trong CSS?
-ID là duy nhất
+Trả lời : ID là duy nhất,
 ID hay index (chỉ số) được dùng để xác định một đối tượng duy nhất nào đó. Mỗi đối tượng chỉ có thể có một ID. Mỗi trang chỉ có thể có một đối tượng với một ID nào đó.
 Class không duy nhất
-
-Class dùng để chỉ một lớp các đối tượng có chung các thuộc tính. Nhiều đối tượng có thể thuộc trong cùng một class. Nhiều class có thể được áp dụng lên cùng một đối tượng.
-
-Sự khác nhau này có thể ví như Barcodes và Serial numbers
-
-Tưởng tượng bạn bước vào một siêu thị điện tử và mỗi thiết bị đều có riêng một serial number. Nhưng serial number thì không gắn liền với giá thiết bị trong hệ thống thanh toán, mà giá được chứa trong barcode. Những thiết bị cùng loại (xuất xứ, thông số kỹ thuật, màu sắc, model,…) sẽ có cùng barcode. Bạn có thể liên hệ một cách đơn giản: “barcode” được ví như “class” và “serial number” chính là “ID”
-<br>
+Class dùng để chỉ một lớp các đối tượng có chung các thuộc tính. Nhiều đối tượng có thể thuộc trong cùng một class. Nhiều class có thể được áp dụng lên cùng một đối tượng. <br>
+Class dùng để chỉ một lớp các đối tượng có chung các thuộc tính. Nhiều đối tượng có thể thuộc trong cùng một class. Nhiều class có thể được áp dụng lên cùng một đối tượng. <br>
 
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
@@ -78,9 +75,18 @@ Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt ng
 ## Server
 
 ## Good Coding
-+ Unit Test
-+ TDD
-+ Refactoring
+1. Unit Test là gì ? 
+2. Lập trình TDD là như thế nào
+3. Sonarque có chức năng làm gì ?
+4. Bạn có biết design pattern là làm gì ? <br>
+Hỏi về các design pattern (1 số design pattern quen thuộc).
++ Factory Pattern <br>
++ Abstract Factory Patter  <br>
++ Builder <br>
++ Singleton <br>
++ Decorator <br>
++ State  <br>
++ Strategy <br>
 
 ## Hỏi về khả năng tự học, tiếp cận/giải quyết vấn đề. <br>
 
