@@ -1,5 +1,6 @@
 # CGDN-InterviewQuestion
 #### References (https://stackjava.com/uncategorized/phong-van-vi-tri-lap-trinh-vien-java.html)
+## Java Core
 1. Lập trình hướng đối tượng là gì? <br>
 Trả lời: lập trình hướng đối tượng là 1 kỹ thuật lập trình, cho phép lập trình viên trừu tượng hóa các đối tượng thực tế thành các đối tượng trong code. <br>
 Ví dụ : Trong thực tế để quản lý 1 khách sạn thì mình có các công việc như quản lý khách tới khách sạn, mình có kế toán để thống kê tài chính, mình có bảo vệ. Như vậy lập trình hướng đối tượng thì trong thực tế có đối tượng khách hàng thì trong lập trình mình cũng có đối tượng khách hàng. Trong thực tế khách hàng có tên , tuổi, địa chỉ thì trong lập trình hướng đối tượng mình cũng có tên tuổi địa chỉ. Hướng đối tượng là ngoài thực tế có cái gì thì mình ánh xạ y chang trong lập trình
@@ -17,16 +18,12 @@ Sự khác nhau giữa Linklist với Arraylist; Vector với Arraylist; HashTab
 Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
 4. Sự khác nhau giữa override và overload
 4. Generic là gì?
-
-
-
 5. Immutable là gì? Cách để tạo đối tượng immutable? <br>
 Trả lời: https://stackjava.com/java/immuable-la-gi.html
 6. Sự khác nhau giữa abstract class và Interface.<br>
 Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html
 
-
-
+## Java Spring
 7. Khái niệm DI là gì? <br>
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm.
 <br>
@@ -52,7 +49,7 @@ Phần này thường hỏi đối với người đã có kinh nghiệm đi là
 9. Hỏi về thuật toán .
 1 số thuật toán quen thuộc như DFS, BFS, các thuật toán đồ thị, tìm kiếm…, thường thì phần này sẽ rơi vào phần làm bài test nhưng đôi khi cũng sẽ hỏi miệng chủ yếu để xác định bạn có biết tới những thuật toán đó không.
 <br>
-=============================================
+## HTML
 9. Khai báo <!DOCTYPE> trong HTML có tác dụng gì?
 <br> 
 9. Phân biệt Class và ID như thế nào trong CSS?
