@@ -7,7 +7,7 @@ Ví dụ : Trong thực tế để quản lý 1 khách sạn thì mình có các
 2. Các tính chất của lập trình hướng đối tượng trong Java? <br>
 Trả lời: Có 4 tính chất (tính trừu tượng, tính đóng gói, tính kế thừa, tính đa hình) 
 https://stackjava.com/oop/cac-tinh-chat-huong-doi-tuong-cua-java.html <br>
-
+Cho ví dụ minh hoạ cho mỗi tính chất
 
 3. Hỏi về collection Framework (Cái này hầu như 100% ở đâu phỏng vấn cũng hỏi)<br>
 Sự khác nhau giữa Set với Map <br>
@@ -15,13 +15,31 @@ Sự khác nhau giữa ArrayList và Array
 Sự khác nhau giữa Linklist với Arraylist; Vector với Arraylist; HashTable với HashMap<br>
 4. Sự khác nhau giữa Hashcode và Equals. <br>
 Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
+4. Sự khác nhau giữa override và overload
+4. Generic là gì?
+
+
+
 5. Immutable là gì? Cách để tạo đối tượng immutable? <br>
 Trả lời: https://stackjava.com/java/immuable-la-gi.html
 6. Sự khác nhau giữa abstract class và Interface.<br>
 Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html
+
+
+
 7. Khái niệm DI là gì? <br>
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm.
 <br>
+7. AOP là gì ? Cho ví dụ minh hoạ
+
+<br>
+7. Vòng đời của 1 Bean 
+<br>
+7. Webservice là gì ?
+<br>
+8. Restful Webservice là gì ?
+
+
 8. Hỏi về các design pattern (1 số design pattern quen thuộc).
 + Factory Pattern <br>
 + Abstract Factory Patter  <br>
@@ -34,6 +52,22 @@ Phần này thường hỏi đối với người đã có kinh nghiệm đi là
 9. Hỏi về thuật toán .
 1 số thuật toán quen thuộc như DFS, BFS, các thuật toán đồ thị, tìm kiếm…, thường thì phần này sẽ rơi vào phần làm bài test nhưng đôi khi cũng sẽ hỏi miệng chủ yếu để xác định bạn có biết tới những thuật toán đó không.
 <br>
+9. Khai báo <!DOCTYPE> trong HTML có tác dụng gì?
+<br> 
+9. Phân biệt Class và ID như thế nào trong CSS?
+ID là duy nhất
+ID hay index (chỉ số) được dùng để xác định một đối tượng duy nhất nào đó. Mỗi đối tượng chỉ có thể có một ID. Mỗi trang chỉ có thể có một đối tượng với một ID nào đó.
+Class không duy nhất
+
+Class dùng để chỉ một lớp các đối tượng có chung các thuộc tính. Nhiều đối tượng có thể thuộc trong cùng một class. Nhiều class có thể được áp dụng lên cùng một đối tượng.
+
+Sự khác nhau này có thể ví như Barcodes và Serial numbers
+
+Tưởng tượng bạn bước vào một siêu thị điện tử và mỗi thiết bị đều có riêng một serial number. Nhưng serial number thì không gắn liền với giá thiết bị trong hệ thống thanh toán, mà giá được chứa trong barcode. Những thiết bị cùng loại (xuất xứ, thông số kỹ thuật, màu sắc, model,…) sẽ có cùng barcode. Bạn có thể liên hệ một cách đơn giản: “barcode” được ví như “class” và “serial number” chính là “ID”
+<br>
+
+
+
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
 Để tạo ấn tượng tốt bạn nên có 1 số project trên github đối với các bài tập lớn của mình hoặc tham gia viết bài trên một blog nào đó về lập trình.
