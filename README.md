@@ -31,14 +31,11 @@ Phần này thường hỏi đối với người đã có kinh nghiệm đi là
 <br>
 3. Vòng đời của 1 Bean 
 <br>
-4. Giải thích @Autowire làm gì ?
-5. Giải thích @Controller , @Service , @Repository , @Res
-7. Webservice là gì ?
-<br>
-8. Restful Webservice là gì ?
-
-
-8. Hỏi về các design pattern (1 số design pattern quen thuộc).
+4. Giải thích @Autowire làm gì ? <br>
+5. Giải thích @Controller , @Service , @Repository , @Resfult <br>
+7. Webservice là gì ? <br>
+8. Restful Webservice là gì ? <br>
+9. Hỏi về các design pattern (1 số design pattern quen thuộc).
 + Factory Pattern <br>
 + Abstract Factory Patter  <br>
 + Builder <br>
@@ -81,6 +78,9 @@ Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt ng
 ## Server
 
 ## Good Coding
++ Unit Test
++ TDD
++ Refactoring
 
 ## Hỏi về khả năng tự học, tiếp cận/giải quyết vấn đề. <br>
 
