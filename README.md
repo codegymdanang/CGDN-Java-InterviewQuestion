@@ -36,7 +36,7 @@ Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
 7. Immutable là gì? Cách để tạo đối tượng immutable? <br>
 Trả lời: https://stackjava.com/java/immuable-la-gi.html <br>
 8. Sự khác nhau giữa abstract class và Interface.<br>
-Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html <br>
+Trả lời: http://levunguyen.com/2019/06/18/khac-biet-giua-abstract-va-interface/ <br>
 9. Hỏi về thuật toán. <br>
 + Tìm kiếm nhị phân<br>
 + Thuật toán sắp xếp <br>
