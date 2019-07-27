@@ -71,7 +71,13 @@ Tưởng tượng bạn bước vào một siêu thị điện tử và mỗi th
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
 Để tạo ấn tượng tốt bạn nên có 1 số project trên github đối với các bài tập lớn của mình hoặc tham gia viết bài trên một blog nào đó về lập trình.
 <br>
-11. Hỏi về khả năng tự học, tiếp cận/giải quyết vấn đề. <br>
+## Database
+
+## Server
+
+## Good Coding
+
+## Hỏi về khả năng tự học, tiếp cận/giải quyết vấn đề. <br>
 
 Cái này chủ yếu về cách mà bạn giải quyết vấn đề, tiếp cận cái mới. Thí dụ cách mà bạn search google cũng được đánh giá khá cao.
 
