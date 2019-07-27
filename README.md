@@ -40,7 +40,11 @@ Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-inte
 + Thuật toán sắp xếp <br>
 10. Phân biệt các kiểu dữ liệu trong java. Khác nhau thế nào ?
 11. Phân biệt sự khác nhau của các modifier : private , default , protected , và public <br>
-
+Trả lời : <br>
++ Khi một phương thức hoặc biến được khai báo là public, có nghĩa là tất cả các class khác, kể cả các class không thuộc cùng package đều có thể truy cập <br>
++ Khi một phương thức hoặc biến được khai báo là private nó sẽ không thể truy cập từ class khác, kể cả các class cùng source file hay các class con. <br>
++ Khi một phương thức hoặc biến được khai báo là default thì chỉ có các class thuộc cùng package với nó mới có thể truy cập. <br>
++ Protected modifier khá giống với default modifier, nó hạn chế khả năng truy cập trong cùng 1 package, tuy nhiên với protected modifier thì nó còn cho phép truy cập từ các class con kể cả khi class con không nằm cùng package với class cha. (truy cập theo trường hợp thừa kế) <br>
 ## Java Spring
 1. Khái niệm DI là gì? <br>
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm. <br>
