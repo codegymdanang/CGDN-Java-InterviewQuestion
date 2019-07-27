@@ -1,4 +1,4 @@
-# CGDN-InterviewQuestion
+# Java Interview Questions- Đề Cương chuẩn bị cho phỏng vấn với doanh nghiệp
 
 ## Java Core
 1. Lập trình hướng đối tượng là gì? <br>
