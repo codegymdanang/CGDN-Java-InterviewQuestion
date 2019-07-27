@@ -67,7 +67,7 @@ Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt ng
 <br>
 ## Database
 1. SQL là gì? <br>
-Trả lời: SQL là viết tắt của cụm từ "Structured Query Language." - ngôn ngữ truy vấn mang tính cấu trúc. Nó được thiết kế để quản lý dữ liệu trong một hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS). SQL là ngôn ngữ cơ sở dữ liệu, được dùng để tạo, xóa, lấy các hàng và sửa đổi các hàng, … Tất cả hệ quản trị cơ sở dữ liệu (Database Management System - DBMS) như MySQL, Oracle, MS Access, Sybase, Informix, Postgres và SQL Server đều sử dụng SQL như là ngôn ngữ cơ sở dữ liệu chuẩn.
+Trả lời: SQL là viết tắt của cụm từ "Structured Query Language." - ngôn ngữ truy vấn mang tính cấu trúc. Nó được thiết kế để quản lý dữ liệu trong một hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS). SQL là ngôn ngữ cơ sở dữ liệu, được dùng để tạo, xóa, lấy các hàng và sửa đổi các hàng, … Tất cả hệ quản trị cơ sở dữ liệu (Database Management System - DBMS) như MySQL, Oracle, MS Access, Sybase, Informix, Postgres và SQL Server đều sử dụng SQL như là ngôn ngữ cơ sở dữ liệu chuẩn.<br>
 2.Định nghĩa từ khóa "JOIN" và các loại "JOIN" khác nhau? <br>
 Trả lời: Từ khóa "JOIN" được sử dụng để lấy dữ liệu từ 2 hay nhiều bảng liên quan. Đây là phép kết hợp các dòng dữ liệu từ nhiều bảng lại với nhau. Khi bạn cần truy vấn các cột dữ liệu từ nhiều bảng khác nhau để trả về trong cùng một tập kết quả, bạn cần dùng từ khóa "JOIN". Các loại JOIN như inner join , outer join : leftjoin , right join and fulljoin <br>
 3.Primary key là gì?  <br>
