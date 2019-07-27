@@ -17,17 +17,15 @@ Cho ví dụ minh hoạ cho mỗi tính chất
 + HashTable với HashMap<br>
 4. Sự khác nhau giữa Hashcode và Equals. <br>
 Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
-5. Sự khác nhau giữa override và overload
-<br>
+5. Sự khác nhau giữa override và overload<br>
 6. Generic là gì? Cho ví dụ minh hoạ <br>
 7. Immutable là gì? Cách để tạo đối tượng immutable? <br>
-Trả lời: https://stackjava.com/java/immuable-la-gi.html
+Trả lời: https://stackjava.com/java/immuable-la-gi.html <br>
 8. Sự khác nhau giữa abstract class và Interface.<br>
-Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html
-<br>
+Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html <br>
 9.Hỏi về thuật toán. <br>
 + Tìm kiếm nhị phân
-+ Thuật toán sắp xếp
++ Thuật toán sắp xếp <br>
 
 ## Java Spring
 1. Khái niệm DI là gì? <br>
@@ -50,8 +48,8 @@ HTML viết tắt của Hyper Text Markup Language (ngôn ngữ đánh dấu si�
 3. Điểm khác biệt giữa “visibility:hidden” và “display:none”? <br>
 4. Thẻ “div” và thẻ “span” khác nhau thế nào? <br>
 5. Canvas trong HTML 5 là gì? <br>
-Trả lời : Canvas là một khoảng trống HTML được sử dụng để vẽ đồ họa.
-<br>
+Trả lời : Canvas là một khoảng trống HTML được sử dụng để vẽ đồ họa.<br>
+
 ## Java Script
 1. Javascript dùng để làm gì?
 Trả lời : javascript là ngôn ngữ lập trình kịch bản hướng đối tượng được phát triển bởi Netscape Communications cho các ứng dụng client/server. Javascript là một ngôn ngữ lập trình thông dịch. JavaScript hiển thị các trang web theo cách tương tác và năng động góp phần tạo nên trang web động. Điều này cho phép các trang bắt các sự kiện, hiện thị các hiệu ứng đặc biệt, tự động tạo nội dung HTML, xác thực dữ liệu, tạo cookie, lấy thông tin trình duyệt của người dùng, 
