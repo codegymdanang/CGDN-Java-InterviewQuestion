@@ -48,8 +48,9 @@ Phần này thường hỏi đối với người đã có kinh nghiệm đi là
 <br>
 9. Hỏi về thuật toán .
 1 số thuật toán quen thuộc như DFS, BFS, các thuật toán đồ thị, tìm kiếm…, thường thì phần này sẽ rơi vào phần làm bài test nhưng đôi khi cũng sẽ hỏi miệng chủ yếu để xác định bạn có biết tới những thuật toán đó không.
-<br>
+
 ## HTML
+
 9. Khai báo <!DOCTYPE> trong HTML có tác dụng gì?
 <br> 
 9. Phân biệt Class và ID như thế nào trong CSS?
@@ -63,9 +64,9 @@ Sự khác nhau này có thể ví như Barcodes và Serial numbers
 
 Tưởng tượng bạn bước vào một siêu thị điện tử và mỗi thiết bị đều có riêng một serial number. Nhưng serial number thì không gắn liền với giá thiết bị trong hệ thống thanh toán, mà giá được chứa trong barcode. Những thiết bị cùng loại (xuất xứ, thông số kỹ thuật, màu sắc, model,…) sẽ có cùng barcode. Bạn có thể liên hệ một cách đơn giản: “barcode” được ví như “class” và “serial number” chính là “ID”
 <br>
-
+## Java Script
 9.“this” trong Javascript dùng để làm gì?
-
+## CSS
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
 Để tạo ấn tượng tốt bạn nên có 1 số project trên github đối với các bài tập lớn của mình hoặc tham gia viết bài trên một blog nào đó về lập trình.
