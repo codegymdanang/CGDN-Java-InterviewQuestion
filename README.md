@@ -9,7 +9,7 @@ Ví dụ : Trong thực tế để quản lý 1 khách sạn thì mình có các
 Trả lời: Có 4 tính chất (tính trừu tượng, tính đóng gói, tính kế thừa, tính đa hình) <br>
 + Cho ví dụ minh hoạ cho mỗi tính chất <br>
   + Ví dụ tính trừa tượng <br>
-Ví dụ khi mình mua hàng online trên mạng như trang lazada, tiki hay amazon. Mình click vào mua sản phẩm sau đó 1 tuần sau mình nhận được sản phẩm của mình. Trừa tượng ở chổ mình không biết lazada, tiki hay amazon sẽ lấy đơn hàng của mình, đóng gói ra sao và họ vận chuyển như thế nào qua các thành phố và quốc gia. Mình chỉ biết là khi mình bấm vô nút mua hàng thì mình sẽ nhận được hàng mà không cần quan tâm họ làm như thế nào đế ship hàng mình về đúng địa chỉ <br>
+Ví dụ khi mình mua hàng online trên mạng như trang lazada, tiki hay amazon. Mình click vào mua sản phẩm sau đó 1 tuần sau mình nhận được sản phẩm của mình. Trừa tượng ở chổ mình không biết lazada, tiki hay amazon sẽ lấy đơn hàng của mình, đóng gói ra sao và họ vận chuyển như thế nào qua các thành phố và quốc gia. Mình chỉ biết là khi mình bấm vô nút mua hàng thì mình sẽ nhận được hàng mà không cần quan tâm họ làm như thế nào đế ship hàng mình về đúng địa chỉ . Trong lập trình cũng vậy khi mình gọi một phương thức từ một đối tượng mình chỉ quan tâm giá trị cung cấp cho phương thức đó và kết quả của phương thức đó trả về, mình không biết code thực sự bên trong phương thức đó làm gì<br>
 
   + Ví dụ tính đa hình <br>
 Ví dụ cũng là phương thức chạy thì con gà chạy bằng 2 chân nhưng con chó chạy bằng 4 chân. Cùng một hành động chạy nhưng ở những ngữ cảnh khác nhau thì hành động khác nhau <br>
