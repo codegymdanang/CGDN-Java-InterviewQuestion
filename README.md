@@ -23,7 +23,7 @@ Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
 Trả lời: https://stackjava.com/java/immuable-la-gi.html <br>
 8. Sự khác nhau giữa abstract class và Interface.<br>
 Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html <br>
-9.Hỏi về thuật toán. <br>
+9. Hỏi về thuật toán. <br>
 + Tìm kiếm nhị phân<br>
 + Thuật toán sắp xếp <br>
 10. Phân biệt các kiểu dữ liệu trong java. Khác nhau thế nào ?
@@ -51,7 +51,7 @@ Trả lời : Canvas là một khoảng trống HTML được sử dụng để 
 ## Java Script
 1. Javascript dùng để làm gì? <br>
 Trả lời : javascript là ngôn ngữ lập trình kịch bản hướng đối tượng được phát triển bởi Netscape Communications cho các ứng dụng client/server. Javascript là một ngôn ngữ lập trình thông dịch. JavaScript hiển thị các trang web theo cách tương tác và năng động góp phần tạo nên trang web động. Điều này cho phép các trang bắt các sự kiện, hiện thị các hiệu ứng đặc biệt, tự động tạo nội dung HTML, xác thực dữ liệu, tạo cookie, lấy thông tin trình duyệt của người dùng <br>
-2.“this” trong Javascript dùng để làm gì?
+2. “this” trong Javascript dùng để làm gì?
 ## CSS
 1. CSS framework là gì? <br>
 2. Phân biệt Class và ID như thế nào trong CSS? <br>
