@@ -24,14 +24,15 @@ Trả lời: https://stackjava.com/java/immuable-la-gi.html
 Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html
 
 ## Java Spring
-7. Khái niệm DI là gì? <br>
+1. Khái niệm DI là gì? <br>
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm.
 <br>
-7. AOP là gì ? Cho ví dụ minh hoạ
-
+2. AOP là gì ? Cho ví dụ minh hoạ
 <br>
-7. Vòng đời của 1 Bean 
+3. Vòng đời của 1 Bean 
 <br>
+4. Giải thích @Autowire làm gì ?
+5. Giải thích @Controller , @Service , @Repository , @Res
 7. Webservice là gì ?
 <br>
 8. Restful Webservice là gì ?
