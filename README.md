@@ -1,5 +1,5 @@
 # CGDN-InterviewQuestion
-#### References (https://stackjava.com/uncategorized/phong-van-vi-tri-lap-trinh-vien-java.html)
+
 ## Java Core
 1. Lập trình hướng đối tượng là gì? <br>
 Trả lời: lập trình hướng đối tượng là 1 kỹ thuật lập trình, cho phép lập trình viên trừu tượng hóa các đối tượng thực tế thành các đối tượng trong code. <br>
