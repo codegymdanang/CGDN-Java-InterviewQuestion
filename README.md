@@ -164,11 +164,6 @@ Hỏi về những kỹ thuật, ngôn ngữ nào mà bạn tự học, tìm hi�
 <br>
 Bạn biết những kỹ thuật, công nghệ, framework gì?
 
-Cái này chủ yếu để xác định xem bạn có phù hợp với vị trí ứng tuyển không.
-
-Ví dụ công ty đang làm về JSF và đang rất cần người biết về JSF nhưng bạn lại chỉ biết Spring thì sẽ không được ưu tiên bằng các ứng viên khác. Một số ít công ty thì chủ yếu maintain các dự án cũ nên sẽ làm nhiều về Struts (cái này giờ ít dùng), thậm chí có lần mình phỏng vấn 1 công ty mà sản phẩm của họ không hề dùng các công nghệ mới chỉ vì sản phẩm của họ đang ổn định.
-<br>
-
 
 
 
