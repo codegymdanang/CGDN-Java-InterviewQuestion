@@ -39,6 +39,8 @@ Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-inte
 + Tìm kiếm nhị phân<br>
 + Thuật toán sắp xếp <br>
 10. Phân biệt các kiểu dữ liệu trong java. Khác nhau thế nào ?
+11. Phân biệt sự khác nhau của các modifier : private , default , protected , và public <br>
+
 ## Java Spring
 1. Khái niệm DI là gì? <br>
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm. <br>
