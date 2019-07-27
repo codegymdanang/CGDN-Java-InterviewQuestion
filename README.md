@@ -20,12 +20,14 @@ Phần này thường hỏi đối với người đã có kinh nghiệm đi là
 
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm.
 
-Trả lời:
+Trả lời:<br>
 9. Hỏi về thuật toán .<br>
 1 số thuật toán quen thuộc như DFS, BFS, các thuật toán đồ thị, tìm kiếm…, thường thì phần này sẽ rơi vào phần làm bài test nhưng đôi khi cũng sẽ hỏi miệng chủ yếu để xác định bạn có biết tới những thuật toán đó không.
+<br>
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
 Để tạo ấn tượng tốt bạn nên có 1 số project trên github đối với các bài tập lớn của mình hoặc tham gia viết bài trên một blog nào đó về lập trình.
+<br>
 11. Hỏi về khả năng tự học, tiếp cận/giải quyết vấn đề. <br>
 
 Cái này chủ yếu về cách mà bạn giải quyết vấn đề, tiếp cận cái mới. Thí dụ cách mà bạn search google cũng được đánh giá khá cao.
@@ -35,6 +37,13 @@ Ví dụ: nhà tuyển dụng hỏi bạn: “em làm chức năng Login” hế
 Hỏi về những kỹ thuật, ngôn ngữ nào mà bạn tự học, tìm hiểu?
 
 Đặc biệt nếu bạn đọc nhiều sách về lập trình thì sẽ được đánh giá rất cao. Một số sách hay về Java như: Sun Certified Programmer for Java®Platform; Clean Code, Java Effective.
+<br>
+Bạn biết những kỹ thuật, công nghệ, framework gì?
+
+Cái này chủ yếu để xác định xem bạn có phù hợp với vị trí ứng tuyển không.
+
+Ví dụ công ty đang làm về JSF và đang rất cần người biết về JSF nhưng bạn lại chỉ biết Spring thì sẽ không được ưu tiên bằng các ứng viên khác. Một số ít công ty thì chủ yếu maintain các dự án cũ nên sẽ làm nhiều về Struts (cái này giờ ít dùng), thậm chí có lần mình phỏng vấn 1 công ty mà sản phẩm của họ không hề dùng các công nghệ mới chỉ vì sản phẩm của họ đang ổn định.
+<br>
 
 
 
