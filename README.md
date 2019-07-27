@@ -118,6 +118,18 @@ Hỏi về các design pattern (1 số design pattern quen thuộc).
 + State  <br>
 + Strategy <br>
 
+## Quản lý công việc
+
++ Kanban dùng để làm gì ? Nguyên lý hoạt động ra sao <br>
+
+## Hỏi về qui trình Scrum
+
+1. Scrum là gì ? <br>
+2. Có bao nhiêu roles trong Scrum <br>
+3. Có mấy loại meeting trong scrum ? <br>
+4. Planing Pocker dùng để làm gì ? <br>
+5. Vì sao nên dùng Scrum <br>
+
 ## Hỏi về khả năng tự học, tiếp cận/giải quyết vấn đề. <br>
 
 Cái này chủ yếu về cách mà bạn giải quyết vấn đề, tiếp cận cái mới. Thí dụ cách mà bạn search google cũng được đánh giá khá cao.
