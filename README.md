@@ -26,6 +26,7 @@ Tính đóng gói hay còn goi là che dấu dữ liệu . Đối với những 
 + Sự khác nhau giữa Linklist với Arraylist <br>
 + Vector với Arraylist <br> 
 + HashTable với HashMap<br>
++ Tham khảo tại đây https://viettuts.vn/interview/list-cau-hoi-phong-van-java-collection <br>
 4. Sự khác nhau giữa Hashcode và Equals. <br>
 Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
 5. Sự khác nhau giữa override và overload<br>
