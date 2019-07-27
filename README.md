@@ -94,6 +94,10 @@ Lệnh DROP xóa hoàn toàn một bảng từ cơ sở dữ liệu.<br>
 
 ## Server
 
+1. Server nghĩa là gì ?<br>
+2. Deploy một ứng dụng spring boot lên server như thế nào ? <br>
+3. Jenkins dùng để làm gì ? <br>
+
 ## Good Coding
 1. Unit Test là gì ? 
 2. Lập trình TDD là như thế nào
