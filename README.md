@@ -63,9 +63,10 @@ Class dùng để chỉ một lớp các đối tượng có chung các thuộc 
 
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
-Để tạo ấn tượng tốt bạn nên có 1 số project trên github đối với các bài tập lớn của mình hoặc tham gia viết bài trên một blog nào đó về lập trình.
-<br>
+Để tạo ấn tượng tốt bạn nên có 1 số project trên github đối với các bài tập lớn của mình hoặc tham gia viết bài trên một blog nào đó về lập trình.<br>
+
 ## Database
+
 1. SQL là gì? <br>
 Trả lời: SQL là viết tắt của cụm từ "Structured Query Language." - ngôn ngữ truy vấn mang tính cấu trúc. Nó được thiết kế để quản lý dữ liệu trong một hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS). SQL là ngôn ngữ cơ sở dữ liệu, được dùng để tạo, xóa, lấy các hàng và sửa đổi các hàng, … Tất cả hệ quản trị cơ sở dữ liệu (Database Management System - DBMS) như MySQL, Oracle, MS Access, Sybase, Informix, Postgres và SQL Server đều sử dụng SQL như là ngôn ngữ cơ sở dữ liệu chuẩn.<br>
 2.Định nghĩa từ khóa "JOIN" và các loại "JOIN" khác nhau? <br>
