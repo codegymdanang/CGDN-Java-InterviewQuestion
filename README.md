@@ -53,11 +53,11 @@ Trả lời : Canvas là một khoảng trống HTML được sử dụng để 
 Trả lời : javascript là ngôn ngữ lập trình kịch bản hướng đối tượng được phát triển bởi Netscape Communications cho các ứng dụng client/server. Javascript là một ngôn ngữ lập trình thông dịch. JavaScript hiển thị các trang web theo cách tương tác và năng động góp phần tạo nên trang web động. Điều này cho phép các trang bắt các sự kiện, hiện thị các hiệu ứng đặc biệt, tự động tạo nội dung HTML, xác thực dữ liệu, tạo cookie, lấy thông tin trình duyệt của người dùng <br>
 2.“this” trong Javascript dùng để làm gì?
 ## CSS
-1. CSS framework là gì?
-2. Phân biệt Class và ID như thế nào trong CSS?
+1. CSS framework là gì? <br>
+2. Phân biệt Class và ID như thế nào trong CSS? <br>
 Trả lời : ID là duy nhất,
-ID hay index (chỉ số) được dùng để xác định một đối tượng duy nhất nào đó. Mỗi đối tượng chỉ có thể có một ID. Mỗi trang chỉ có thể có một đối tượng với một ID nào đó.
-Class không duy nhất
+ID hay index (chỉ số) được dùng để xác định một đối tượng duy nhất nào đó. Mỗi đối tượng chỉ có thể có một ID. Mỗi trang chỉ có thể có một đối tượng với một ID nào đó. <br>
+Class không duy nhất <br>
 Class dùng để chỉ một lớp các đối tượng có chung các thuộc tính. Nhiều đối tượng có thể thuộc trong cùng một class. Nhiều class có thể được áp dụng lên cùng một đối tượng. <br>
 Class dùng để chỉ một lớp các đối tượng có chung các thuộc tính. Nhiều đối tượng có thể thuộc trong cùng một class. Nhiều class có thể được áp dụng lên cùng một đối tượng. <br>
 
