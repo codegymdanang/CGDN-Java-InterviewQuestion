@@ -17,12 +17,17 @@ Trả lời: https://stackjava.com/java/immuable-la-gi.html
 Trả lời: https://stackjava.com/oop/su-khac-nhau-giua-abstract-class-voi-interface-trong-java.html
 7. Khái niệm DI là gì? <br>
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm.
-8. Hỏi về các design pattern (1 số design pattern quen thuộc).<br>
-
-Phần này thường hỏi đối với người đã có kinh nghiệm đi làm.
-
-Trả lời:<br>
-9. Hỏi về thuật toán .<br>
+<br>
+8. Hỏi về các design pattern (1 số design pattern quen thuộc).
++ Factory Pattern <br>
++ Abstract Factory Patter  <br>
++ Builder <br>
++ Singleton <br>
++ Decorator <br>
++ State  <br>
++ Strategy <br>
+<br>
+9. Hỏi về thuật toán .
 1 số thuật toán quen thuộc như DFS, BFS, các thuật toán đồ thị, tìm kiếm…, thường thì phần này sẽ rơi vào phần làm bài test nhưng đôi khi cũng sẽ hỏi miệng chủ yếu để xác định bạn có biết tới những thuật toán đó không.
 <br>
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
