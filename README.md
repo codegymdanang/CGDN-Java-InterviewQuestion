@@ -22,8 +22,10 @@ Tính đóng gói hay còn goi là che dấu dữ liệu . Đối với những 
 
 3. Hỏi về collection Framework (Cái này hầu như 100% ở đâu phỏng vấn cũng hỏi)<br>
 + Sự khác nhau giữa Set với Map <br>
-+ Sự khác nhau giữa ArrayList và Array <br>
-+ Sự khác nhau giữa Linklist với Arraylist <br>
++ Sự khác nhau giữa ArrayList và Array<br>
+   - Array fix cứng giá trị mảng <br>
+   - ArrayList có thể co giản được <br>
++ Sự khác nhau giữa Linkedlist với Arraylist http://levunguyen.com/2019/08/05/su-khac-nhau-giua-linkedlist-va-arraylist-trong-java/<br>
 + Vector với Arraylist <br> 
 + HashTable với HashMap<br>
 + Tham khảo tại đây https://viettuts.vn/interview/list-cau-hoi-phong-van-java-collection <br>
