@@ -61,15 +61,15 @@ Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài 
 
 ## Java Spring
 1. Khái niệm DI là gì? <br>
-Phần này thường hỏi đối với người đã có kinh nghiệm đi làm. <br>
 2. AOP là gì ? Cho ví dụ minh hoạ <br>
 3. SpringBoot làm gì ? <br>
 4. Vòng đời của 1 Bean <br>
 5. Giải thích @Autowire làm gì ? <br>
 6. Giải thích @Controller , @Service , @Repository , @Resfult <br>
-7. Giải thích JPA là gì 
+7. Giải thích JPA là gì ? <br>
 8. Webservice là gì ? <br>
 9. Restful Webservice là gì ? <br>
+10. Maven dùng để làm gì ? <br>
 
 ## HTML
 1. HTML là gì ? <br>
@@ -130,11 +130,13 @@ Lệnh DROP xóa hoàn toàn một bảng từ cơ sở dữ liệu.<br>
 
 10. Transaction là gì ? <br>
 
-## Server
+## Devops 
 
 1. Server nghĩa là gì ?<br>
 2. Deploy một ứng dụng spring boot lên server như thế nào ? <br>
 3. Jenkins dùng để làm gì ? <br>
+4. Sonarque dùng làm gì ? <br>
+5. Tomcat dùng làm gì ? <br>
 
 ## Good Coding
 1. Unit Test là gì ? 
@@ -152,7 +154,9 @@ Hỏi về các design pattern (1 số design pattern quen thuộc, chọn 1 cá
 
 ## Quản lý công việc
 
-+ Kanban dùng để làm gì ? Nguyên lý hoạt động ra sao <br>
++ Kanban dùng để làm gì ? <br>
++ Nguyên lý hoạt động ra sao <br>
+
 
 ## Hỏi về qui trình Scrum
 
@@ -160,7 +164,12 @@ Hỏi về các design pattern (1 số design pattern quen thuộc, chọn 1 cá
 2. Có bao nhiêu roles trong Scrum <br>
 3. Có mấy loại meeting trong scrum ? <br>
 4. Planing Pocker dùng để làm gì ? <br>
-5. Vì sao nên dùng Scrum <br>
+5. Vì sao nên dùng Scrum ? <br>
+6. Product Backlog là gì ? <br>
+7. Sprint Backlog là gì ?<br>
+8. Sprint Retro dùng để làm gì ? <br>
+9. 3 câu hỏi trong daily Scrum là gì ? <br>
+
 
 ## Hỏi về khả năng tự học, tiếp cận/giải quyết vấn đề. <br>
 
