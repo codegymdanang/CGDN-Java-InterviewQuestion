@@ -72,7 +72,8 @@ Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài 
 9. Restful Webservice là gì ? <br>
 10. Maven dùng để làm gì ? <br>
 11. Sự khác nhau giữa Session và Cookie ? <br>
-12. Cache nghĩa là gì ?
+12. Cache nghĩa là gì ? <br>
+13. Mô hình MVC là gì ? Giải thích ?
 
 ## HTML
 1. HTML là gì ? <br>
