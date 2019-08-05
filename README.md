@@ -141,7 +141,7 @@ Lệnh DROP xóa hoàn toàn một bảng từ cơ sở dữ liệu.<br>
 2. Lập trình TDD là như thế nào
 3. Sonarque có chức năng làm gì ?
 4. Bạn có biết design pattern là làm gì ? <br>
-Hỏi về các design pattern (1 số design pattern quen thuộc).
+Hỏi về các design pattern (1 số design pattern quen thuộc, chọn 1 cái từ category là creation, 1 cái từ structural , 1 cái từ behavior). <br>
 + Factory Pattern <br>
 + Abstract Factory Patter  <br>
 + Builder <br>
@@ -172,7 +172,7 @@ Hỏi về những kỹ thuật, ngôn ngữ nào mà bạn tự học, tìm hi�
 
 Đặc biệt nếu bạn đọc nhiều sách về lập trình thì sẽ được đánh giá rất cao. Một số sách hay về Java như: Sun Certified Programmer for Java®Platform; Clean Code, Java Effective.
 <br>
-Bạn biết những kỹ thuật, công nghệ, framework gì?
+- Ngoài những cái ở trên Bạn biết những kỹ thuật, công nghệ, framework gì nữa ?
 
 
 
