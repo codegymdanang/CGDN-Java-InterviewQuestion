@@ -61,7 +61,7 @@ Khi chúng ta lập trình thì sẽ có những trường hợp có thể xảy
 Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài hàm bị ảnh hưởng. Nó giống như bạn truyền đúng địa chỉ của biến đó vào hàm. <br>
 
 ## Java Spring
-1. Khái niệm DI là gì? <br>
+1. Khái niệm DI (dependency injection)  là gì? Cho ví dụ minh hoạ <br>
 2. AOP là gì ? Cho ví dụ minh hoạ <br>
 3. SpringBoot làm gì ? <br>
 4. Vòng đời của 1 Bean <br>
