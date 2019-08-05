@@ -49,6 +49,9 @@ Trả lời : <br>
 + Protected modifier khá giống với default modifier, nó hạn chế khả năng truy cập trong cùng 1 package, tuy nhiên với protected modifier thì nó còn cho phép truy cập từ các class con kể cả khi class con không nằm cùng package với class cha. (truy cập theo trường hợp thừa kế) <br>
 12. Ngoại lệ (Exception là gì) ?
 Khi chúng ta lập trình thì sẽ có những trường hợp có thể xảy ra lỗi . Ví dụ lấy 1 số nguyên chia cho 0. Khi mình thực thi chương trình thì nó sẽ báo ra lỗi Java.lang.ArithmeticException . Trong lập trình mình có rất nhiều Ngoại lệ . Nếu mình đoán được các ngoại lệ có thể xảy ra thì mình có thể dùng try và catch để xử lý ngoại lệ đó. Ngoại lệ rất nguyên hiểm có thể làm chương trình bị đứng . Bắt được ngoại lệ và giải quyết nó giúp chương trình tiếp tục chạy như bình 
+13. Phân biệt pass-by-value và pass-by-object
+- Pass by value : nghĩa là mình sẽ clone giá trị từ giá trị gốc và mình chỉ thao táo với bản copy. Khi chúng ta thay đổi các giá trị của đối tượng copy thì không ảnh hưởng đến giá trị gốc
+- Pass by reference :  Ngược lại với Pass by value . Giá trị gốc sẽ bị thay đổi nếu ta truyền giá trị bằng 
 ## Java Spring
 1. Khái niệm DI là gì? <br>
 Phần này thường hỏi đối với người đã có kinh nghiệm đi làm. <br>
