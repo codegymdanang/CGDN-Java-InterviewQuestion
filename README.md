@@ -149,7 +149,7 @@ Lệnh DROP xóa hoàn toàn một bảng từ cơ sở dữ liệu.<br>
 1. Unit Test là gì ? 
 2. Lập trình TDD là như thế nào
 3. Sonarque có chức năng làm gì ?
-4. Bạn có biết design pattern là làm gì ? <br>
+4. Bạn có biết design pattern là làm gì ? https://docs.google.com/presentation/d/1VfKg18KaR_sgct4YJamJLsh86IW44HHdGv1ImhC5-Jo/edit?usp=sharing <br>
 Hỏi về các design pattern (1 số design pattern quen thuộc, chọn 1 cái từ category là creation, 1 cái từ structural , 1 cái từ behavior). <br>
 + Factory Pattern <br>
 + Abstract Factory Patter  <br>
