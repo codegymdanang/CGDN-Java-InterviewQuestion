@@ -56,7 +56,7 @@ Khi chúng ta lập trình thì sẽ có những trường hợp có thể xảy
 - CPU xử lý dữ liệu thông qua địa chỉ bộ nhớ nên thứ được truyền vào hàm luôn luôn là địa chỉ bộ nhớ chứ không phải là giá trị.<br>
 - Khi chương trình thực thi, dữ liệu trên RAM có thể được lưu trữ trên stack hoặc heap nhưng việc tham chiếu bằng địa chỉ giữa các biến là như nhau nên để cho đơn giản mình sẽ giả sử chúng chỉ được lưu trữ trên stack. <br>
 
-- Pass by value : nghĩa là mình sẽ clone (tạo ra một giá trị mới bằng cách copy giá trị gốc) giá trị mới từ giá trị gốc và mình chỉ thao táo với bản copy. Khi chúng ta thay đổi các giá trị của đối tượng copy thì không ảnh hưởng đến giá trị gốc. Pass-by-value được hiểu là khi bạn thay đổi biến trong hàm thì ngoài hàm sẽ không bị ảnh hưởng. Nó giống như bạn copy giá trị của biến vào biến khác rồi truyền vào hàm. <br>
+- Pass by value : nghĩa là mình sẽ clone (tạo ra một giá trị mới bằng cách copy (nhân bản) giá trị gốc) giá trị mới từ giá trị gốc và mình chỉ thao táo với bản copy. Khi chúng ta thay đổi các giá trị của đối tượng copy thì không ảnh hưởng đến giá trị gốc. Pass-by-value được hiểu là khi bạn thay đổi biến trong hàm thì ngoài hàm sẽ không bị ảnh hưởng. Nó giống như bạn copy giá trị của biến vào biến khác rồi truyền vào hàm. <br>
 - Pass by reference :  Ngược lại với Pass by value . Giá trị gốc sẽ bị thay đổi
 Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài hàm bị ảnh hưởng. Nó giống như bạn truyền đúng địa chỉ của biến đó vào hàm. <br>
 
