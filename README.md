@@ -122,7 +122,10 @@ Trả lời: Một ràng buộc CHECK được sử dụng để giới hạn c�
 Trả lời: STORED PROCEDURE là một tập hợp các câu lệnh SQL dùng để thực thi một nhiệm vụ nhất định. Nó hoạt động giống như một hàm trong các ngôn ngữ lập trình khác. STORED PROCEDURE là một khái niệm khá phổ biến và được hầu hết các hệ quản trị cơ sở dữ liệu (DBMS) hỗ trợ, tuy nhiên không phải tất cả đều hỗ trợ STORED PROCEDURE.<br>
 
 7. NORMALIZATION - Chuẩn hóa dữ liệu là gì? <br>
-Trả lời: Quá trình thiết kế bảng để giảm thiểu sự dư thừa số liệu, loại bỏ các thay đổi dữ liệu dị thường (update anomaly, insertion anomaly, deletion anomaly) được gọi là quá trình chuẩn hóa dữ liệu. Để thực hiện quá trình này, chúng ta cần phải chia một cơ sở dữ liệu thành hai hay nhiều bảng và xác định các mối quan hệ giữa chúng.<br>
+Trả lời: Quá trình thiết kế bảng để giảm thiểu sự dư thừa số liệu, loại bỏ các thay đổi dữ liệu dị thường (update anomaly, insertion anomaly, deletion anomaly) được gọi là quá trình chuẩn hóa dữ liệu. Để thực hiện quá trình này, chúng ta cần phải chia một cơ sở dữ liệu thành hai hay nhiều bảng và xác định các mối quan hệ giữa chúng.
+https://docs.google.com/presentation/d/19Q2DYGId0Ns4OjivpGeA8gFNCHtw_Hg8ADHlr-MqWHA/edit?usp=sharing
+
+<br>
 
 8. TRIGGER là gì? <br> Trả lời: TRIGGER được hiểu đơn giản là một thủ tục (một tập các câu lệnh SQL được lưu trữ trong CSDL) được thực thi từ phía máy chủ cơ sở dữ liệu (CSDL) khi có một sự kiện xảy ra như Update, Insert hay Delete. TRIGGER thường dùng để kiểm ra các ràng buộc toàn vẹn trên CSDL, và chúng được thực thi một cách tự động mà không cần sự can thiệp bằng các thao tác thủ công như kiểm tra dữ liệu, đồng bộ hóa dữ liệu <br>
 
