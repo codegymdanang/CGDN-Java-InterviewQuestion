@@ -105,6 +105,8 @@ Class không duy nhất <br>
 Class dùng để chỉ một lớp các đối tượng có chung các thuộc tính. Nhiều đối tượng có thể thuộc trong cùng một class. Nhiều class có thể được áp dụng lên cùng một đối tượng. <br>
 Class dùng để chỉ một lớp các đối tượng có chung các thuộc tính. Nhiều đối tượng có thể thuộc trong cùng một class. Nhiều class có thể được áp dụng lên cùng một đối tượng. <br>
 3. Phân biệt sự khác nhau của padding và margin <br>
+4. Thuộc tính float:left là gì ? <br>
+5. Thuộc tính clear:both dùng để làm gì ? <br>
 
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
