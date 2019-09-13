@@ -82,6 +82,7 @@ Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài 
 12. Cache nghĩa là gì ? <br>
 13. Mô hình MVC là gì ? Giải thích ? <br>
 14. Truyền dữ liệu từ Controller tới View thì dùng cái gì ? <br>
+15. JWT là gì ?
 
 ## HTML
 1. HTML là gì ? <br>
