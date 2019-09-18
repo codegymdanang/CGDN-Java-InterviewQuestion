@@ -6,6 +6,7 @@ Trả lời: lập trình hướng đối tượng là 1 kỹ thuật lập trì
 Ví dụ : Trong thực tế để quản lý 1 khách sạn thì mình có các công việc như quản lý khách tới khách sạn, mình có kế toán để thống kê tài chính, mình có bảo vệ. Như vậy lập trình hướng đối tượng thì trong thực tế có đối tượng khách hàng thì trong lập trình mình cũng có đối tượng khách hàng. Trong thực tế khách hàng có tên , tuổi, địa chỉ thì trong lập trình hướng đối tượng mình cũng có tên tuổi địa chỉ. Hướng đối tượng là ngoài thực tế có cái gì thì mình ánh xạ y chang trong lập trình
 
 2. Các tính chất của lập trình hướng đối tượng trong Java? <br>
+https://docs.google.com/presentation/d/1K8f4L0PdSqId76n9ueSDDfRxx9_qQm-AaXs6pCV_yAA/edit?usp=sharing <br>
 Trả lời: Có 4 tính chất (tính trừu tượng, tính đóng gói, tính kế thừa, tính đa hình) <br>
 + Cho ví dụ minh hoạ cho mỗi tính chất <br>
   * Ví dụ tính trừa tượng <br>
@@ -22,17 +23,17 @@ Ví dụ như con kế thừa tài sản của cha. Hoặc ví dụ khác như c
 
   * Ví dụ tính đóng gói <br>
 Tính đóng gói hay còn goi là che dấu dữ liệu . Đối với những dữ liêu quan trọng chúng ta không muốn cho các lớp khác truy cập và sử dung thì ta hạn chế không cho các lớp khác truy cập vào biến hay phương thức bảo mật
-<br>
-https://docs.google.com/presentation/d/1K8f4L0PdSqId76n9ueSDDfRxx9_qQm-AaXs6pCV_yAA/edit?usp=sharing <br>
+
 3. Hỏi về collection Framework (Cái này hầu như 100% ở đâu phỏng vấn cũng hỏi)<br>
 + Sự khác nhau giữa Set với Map <br>
 + Sự khác nhau giữa ArrayList và Array<br>
    - Array fix cứng giá trị mảng <br>
    - ArrayList có thể co giản được <br>
-+ Sự khác nhau giữa Linkedlist với Arraylist http://levunguyen.com/2019/08/05/su-khac-nhau-giua-linkedlist-va-arraylist-trong-java/<br>
++ Sự khác nhau giữa Linkedlist với Arraylist <br>
+http://levunguyen.com/2019/08/05/su-khac-nhau-giua-linkedlist-va-arraylist-trong-java/<br>
 + Vector với Arraylist <br> 
 + HashTable với HashMap<br>
-+ Tham khảo tại đây https://viettuts.vn/interview/list-cau-hoi-phong-van-java-collection <br>
+https://viettuts.vn/interview/list-cau-hoi-phong-van-java-collection <br>
 4. Sự khác nhau giữa Hashcode và Equals. <br>
 Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
 5. Sự khác nhau giữa override và overload<br>
