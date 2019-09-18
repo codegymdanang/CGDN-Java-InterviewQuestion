@@ -22,7 +22,8 @@ Ví dụ như con kế thừa tài sản của cha. Hoặc ví dụ khác như c
 
   * Ví dụ tính đóng gói <br>
 Tính đóng gói hay còn goi là che dấu dữ liệu . Đối với những dữ liêu quan trọng chúng ta không muốn cho các lớp khác truy cập và sử dung thì ta hạn chế không cho các lớp khác truy cập vào biến hay phương thức bảo mật
-
+<br>
+https://docs.google.com/presentation/d/1K8f4L0PdSqId76n9ueSDDfRxx9_qQm-AaXs6pCV_yAA/edit?usp=sharing <br>
 3. Hỏi về collection Framework (Cái này hầu như 100% ở đâu phỏng vấn cũng hỏi)<br>
 + Sự khác nhau giữa Set với Map <br>
 + Sự khác nhau giữa ArrayList và Array<br>
