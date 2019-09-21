@@ -181,6 +181,7 @@ Hỏi về các design pattern (1 số design pattern quen thuộc, chọn 1 cá
 + Angular là gì ? <br>
 + Giải thích Scope trong Angular ? <br>
 + Data binding trong angular là gì ? <br>
+https://malcoded.com/posts/angular-data-binding/ <br>
 + Directive trong angular là gì > <br>
 + Vòng đời của một component ? https://techblog.vn/lifecycle-hooks-in-angular <br>
 + Rounting là gì ? <br>
