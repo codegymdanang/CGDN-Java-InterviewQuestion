@@ -60,6 +60,7 @@ Trả lời : <br>
 
 
 12. Ngoại lệ (Exception là gì) ?
+https://docs.google.com/presentation/d/1gJy6TvLc5RR6Rpx8G2JpEvN2GJejrhKwelRSJnikutg/edit?usp=sharing <br>
 Khi chúng ta lập trình thì sẽ có những trường hợp có thể xảy ra lỗi . Ví dụ lấy 1 số nguyên chia cho 0. Khi mình thực thi chương trình thì nó sẽ báo ra lỗi Java.lang.ArithmeticException . Trong lập trình mình có rất nhiều Ngoại lệ . Nếu mình đoán được các ngoại lệ có thể xảy ra thì mình có thể dùng try và catch để xử lý ngoại lệ đó. Ngoại lệ rất nguyên hiểm có thể làm chương trình bị đứng . Bắt được ngoại lệ và giải quyết nó giúp chương trình tiếp tục chạy như bình 
 13. Phân biệt pass-by-value và pass-by-reference và bộ nhớ máy tính <br>
 https://docs.google.com/presentation/d/1swUT9shoRZk9VZy3wuxL98IIfShYt-g-Sf1fyP9rbVI/edit?usp=sharing <br>
