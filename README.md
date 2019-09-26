@@ -49,7 +49,7 @@ Trả lời: http://levunguyen.com/2019/06/18/khac-biet-giua-abstract-va-interfa
 + Tìm kiếm nhị phân<br>
 + Thuật toán sắp xếp <br>
 10. Phân biệt các kiểu dữ liệu trong java. Khác nhau thế nào ?
-11. Phân biệt sự khác nhau của các modifier : private , default , protected , public và static <br>
+11. Phân biệt sự khác nhau của các modifier : private , default , protected , public  <br>
 Trả lời : <br>
 + Khi một phương thức hoặc biến được khai báo là public, có nghĩa là tất cả các class khác, kể cả các class không thuộc cùng package đều có thể truy cập <br>
 + Khi một phương thức hoặc biến được khai báo là private nó sẽ không thể truy cập từ class khác, kể cả các class cùng source file hay các class con. <br>
