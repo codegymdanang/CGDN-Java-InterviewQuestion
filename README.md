@@ -55,7 +55,7 @@ Trả lời : <br>
 + Khi một phương thức hoặc biến được khai báo là private nó sẽ không thể truy cập từ class khác, kể cả các class cùng source file hay các class con. <br>
 + Khi một phương thức hoặc biến được khai báo là default thì chỉ có các class thuộc cùng package với nó mới có thể truy cập. <br>
 + Protected modifier khá giống với default modifier, nó hạn chế khả năng truy cập trong cùng 1 package, tuy nhiên với protected modifier thì nó còn cho phép truy cập từ các class con kể cả khi class con không nằm cùng package với class cha. (truy cập theo trường hợp thừa kế) <br>
-+ Static : khi mình muốn chia sẽ cái biến đó cho các object khác có thể sử dụng được
++ Static : khi mình muốn chia sẽ (dùng chung) cái biến đó cho các object khác có thể sử dụng được
 + Final : Khi mình muốn giá trị là hằng số và không thể thay đổi được (Ví dụ final double PI = 3.14)
 
 
