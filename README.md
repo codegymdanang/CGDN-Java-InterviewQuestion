@@ -62,7 +62,8 @@ Trả lời : <br>
 12. Ngoại lệ (Exception là gì) ?
 https://docs.google.com/presentation/d/1gJy6TvLc5RR6Rpx8G2JpEvN2GJejrhKwelRSJnikutg/edit?usp=sharing <br>
 Khi chúng ta lập trình thì sẽ có những trường hợp có thể xảy ra lỗi . Ví dụ lấy 1 số nguyên chia cho 0. Khi mình thực thi chương trình thì nó sẽ báo ra lỗi Java.lang.ArithmeticException . Trong lập trình mình có rất nhiều Ngoại lệ . Nếu mình đoán được các ngoại lệ có thể xảy ra thì mình có thể dùng try và catch để xử lý ngoại lệ đó. Ngoại lệ rất nguyên hiểm có thể làm chương trình bị đứng . Bắt được ngoại lệ và giải quyết nó giúp chương trình tiếp tục chạy như bình 
-13. Phân biệt pass-by-value và pass-by-reference và bộ nhớ máy tính <br>
+13. Try/Catch/Finally <br>
+14. Phân biệt pass-by-value và pass-by-reference và bộ nhớ máy tính <br>
 https://docs.google.com/presentation/d/1swUT9shoRZk9VZy3wuxL98IIfShYt-g-Sf1fyP9rbVI/edit?usp=sharing <br>
 - CPU xử lý dữ liệu thông qua địa chỉ bộ nhớ nên thứ được truyền vào hàm luôn luôn là địa chỉ bộ nhớ chứ không phải là giá trị.<br>
 - Khi chương trình thực thi, dữ liệu trên RAM có thể được lưu trữ trên stack hoặc heap nhưng việc tham chiếu bằng địa chỉ giữa các biến là như nhau nên để cho đơn giản mình sẽ giả sử chúng chỉ được lưu trữ trên stack. <br>
@@ -70,7 +71,7 @@ https://docs.google.com/presentation/d/1swUT9shoRZk9VZy3wuxL98IIfShYt-g-Sf1fyP9r
 - Pass by value : nghĩa là mình sẽ clone (tạo ra một giá trị mới bằng cách copy (nhân bản) giá trị gốc) giá trị mới từ giá trị gốc và mình chỉ thao táo với bản copy. Khi chúng ta thay đổi các giá trị của đối tượng copy thì không ảnh hưởng đến giá trị gốc. Pass-by-value được hiểu là khi bạn thay đổi biến trong hàm thì ngoài hàm sẽ không bị ảnh hưởng. Nó giống như bạn copy giá trị của biến vào biến khác rồi truyền vào hàm. <br>
 - Pass by reference :  Ngược lại với Pass by value . Giá trị gốc sẽ bị thay đổi
 Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài hàm bị ảnh hưởng. Nó giống như bạn truyền đúng địa chỉ của biến đó vào hàm. <br>
-14. Bộ nhớ máy tính . HEAD và STACK
+15. Bộ nhớ máy tính . HEAD và STACK
 
 ## Java Spring
 1. Khái niệm DI (dependency injection)  là gì? Cho ví dụ minh hoạ <br>
