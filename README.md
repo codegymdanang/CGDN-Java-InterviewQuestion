@@ -39,7 +39,7 @@ Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
 5. Sự khác nhau giữa override và overload<br>
 + Override : Overriding xuất hiện khi trong class con tồn tại một method được định nghĩa với cùng tên và cùng số lượng tham số với method của class cha <br>
 + Overload : Overloading xuất hiện khi trong một class tồn tại một method được định nghĩa với cùng tên nhưng khác số lượng tham số đầu vào với method của class cha. <br>
-6. Generic là gì? Cho ví dụ minh hoạ <br>
+6. Generic là gì? Cho ví dụ minh hoạ? Tại sao dùng Generic <br>
 https://viettuts.vn/java-new-features/generics-trong-java <br>
 7. Immutable là gì? Cách để tạo đối tượng immutable? <br>
 Trả lời: https://stackjava.com/java/immuable-la-gi.html <br>
