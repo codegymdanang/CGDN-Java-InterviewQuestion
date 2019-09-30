@@ -77,13 +77,12 @@ Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài 
 
 ## Java Spring
 1.Nguyên lý Inversion of Control là gì? <br>
-IOC : nguyên lý đảo ngược điều khiển. Chúng ta giao cho framework sử lý. Ví dụ như kết nối database, chúng ta giao cho framwork chịu trách nhiệm và điều kiển. Chúng ta chỉ gọi 
-Trong chương trình dòng lệnh, chúng ta kiểm soát được khi nào các phương thức được gọi, nhưng trong trong khái niệm IOC. Framework sẽ kiểm soát việc đó
+IOC : nguyên lý đảo ngược điều khiển. Chúng ta giao cho framework sử lý. Ví dụ như kết nối database, chúng ta giao cho framwork chịu trách nhiệm và điều kiển. 
 http://acegik.net/blog/java/spring/core/tong-quan-ve-ioc-trong-spring.html
 https://techblog.vn/inversion-of-control-nguyen-ly-cua-cac-nguyen-ly
 <br>
 1. IOC Container trong Spring
-IoC Container trong Spring chính là lõi của Spring Framework. IoC Container sẽ tạo ra các đối tượng, nối chúng lại với nhau, cấu hình chúng, và quản lý vòng đời của chúng từ khi tạo ra đến khi bị hủy. IoC Container sử dụng DI (Dependency Injection) để quản lý các thành phần tạo nên một ứng dụng. Những đối tượng này được gọi là Spring Bean. IoC Container được cung cấp thông tin từ các tập tin XML. <br>
+IoC Container trong Spring chính là lõi của Spring Framework. IoC Container sẽ tạo ra các đối tượng, nối chúng lại với nhau, cấu hình chúng, và quản lý vòng đời của chúng từ khi tạo ra đến khi bị hủy. IoC Container sử dụng DI (Dependency Injection) để quản lý các thành phần tạo nên một ứng dụng. Những đối tượng này được gọi là Spring Bean. IoC Container được cung cấp thông tin từ các tập tin XML hoặc từ Java Annotation <br>
 Có hai loại IoC Container, đó là: BeanFactory , ApplicationContext <br>
 1. Khái niệm DI (dependency injection)  là gì? Cho ví dụ minh hoạ <br>
 2. AOP là gì ? Cho ví dụ minh hoạ <br>
