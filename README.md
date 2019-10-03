@@ -185,6 +185,7 @@ Lệnh TRUNCATE xóa toàn bộ các bản ghỉ từ bảng bằng cách phân 
 Lệnh DROP xóa hoàn toàn một bảng từ cơ sở dữ liệu.<br>
 
 10. Transaction là gì ? <br>
+Sequence of operation performed which changes the consistent state of the database to another is known as the database transaction. After the completion of the transaction, either the successful completion is reflected in the system or the transaction fails and no change is reflected <br>
 11. Có bao nhiêu loại câu lệnh SQL được sử dụng many SQL statements are used? 
 Câu lệnh SQL được chia ra thành 3 loại DDL , DML và DCL <br>
 Data Definition Language (DDL) : Các câu lệnh định nghĩa cấu trúc để lưu trữ dữ liệu. <br>
