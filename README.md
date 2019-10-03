@@ -25,10 +25,18 @@ Ví dụ như con kế thừa tài sản của cha. Hoặc ví dụ khác như c
 Tính đóng gói hay còn goi là che dấu dữ liệu . Đối với những dữ liêu quan trọng chúng ta không muốn cho các lớp khác truy cập và sử dung thì ta hạn chế không cho các lớp khác truy cập vào biến hay phương thức bảo mật
 
 3. Hỏi về collection Framework (Cái này hầu như 100% ở đâu phỏng vấn cũng hỏi)<br>
-https://docs.google.com/presentation/d/1AhJ3XlgEFJIJW8ETvummQBoUkxT2_z5NjJ8XvQoJj7M/edit?usp=sharing
-
-+ Sự khác nhau giữa Set với List <br>
-+ Sự khác nhau giữa ArrayList và Array<br>
+https://docs.google.com/presentation/d/1AhJ3XlgEFJIJW8ETvummQBoUkxT2_z5NjJ8XvQoJj7M/edit?usp=sharing <br>
+3.1 ArrayList là gì ? Khi nào dùng ArrayList <br>
+3.2 LinkedList là gì ? Khi nào dùng Linkedlist  <br>
+3.2 Vector là gì ? Khi nào dùng Vector?<br>
+3.3 Stack là gì ? Khi nào dùng Stack <br>
+3.4 Queuu là gì ? Khi nào dùng Queue <br>
+3.5 Set là gì ? Khi nào dùng Set <br>
+3.6 Map là gì ? Khi nào dùng Map <br>
+3.7 Phân biệt TreeSet, HashSet và EnumSet ? Khi nào thì dùng <br>
+3.8 Phân biệt ArrayList , Linkedlist và Vector ? Khi nào thì dùn
+3.9 Sự khác nhau giữa Set với List <br>
+4.10 Sự khác nhau giữa ArrayList và Array<br>
    - Array fix cứng giá trị mảng <br>
    - ArrayList có thể co giản được <br>
 + Sự khác nhau giữa Linkedlist với Arraylist <br>
@@ -36,10 +44,8 @@ http://levunguyen.com/2019/08/05/su-khac-nhau-giua-linkedlist-va-arraylist-trong
 + Vector với Arraylist <br> 
 + HashTable với HashMap<br>
 https://viettuts.vn/interview/list-cau-hoi-phong-van-java-collection <br>
-3.1 Thuật toán BIG O là gì ? <br>
-3.2 Trong khi thao tác với các collection (ArrayList,LinkedList, như insert , remove , finding thì cái nào nhanh hơn , cái nào chậm hơn.
-3.3 Khi nào dùng 
-
+3.11 Thuật toán BIG O là gì ? <br>
+3.12 Trong khi thao tác với các collection (ArrayList,LinkedList, như insert , remove , finding thì cái nào nhanh hơn , cái nào chậm hơn.
 
 4. Sự khác nhau giữa Hashcode và Equals. <br>
 Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
