@@ -196,16 +196,16 @@ Data Definition Language (DDL) : Các câu lệnh định nghĩa cấu trúc đ�
 + ALTER for alteration.
 + Truncate to delete data from the table.
 + DROP to drop a table.
-+ RENAME to rename a table.
++ RENAME to rename a table. <br>
 Data Manipulation Language (DML): Các câu lệnh thao tác với database<br>
 + INSERT to insert a new row.
 + UPDATE to update an existing row.
 + DELETE to delete a row.
-+ MERGE for merging two rows or two tables.
++ MERGE for merging two rows or two tables.<br>
 Data Control Language (DCL): Các câu lệnh dùng để quản lý permission trong cơ sở dử liệu<br>
 + COMMIT to permanently save.
 + ROLLBACK to undo the change.
-+ SAVEPOINT to save temporarily.
++ SAVEPOINT to save temporarily.<br>
 12.Model ERD nghĩa là gì ?
 Ans: E-R model is an Entity-Relationship model which defines the conceptual view of the database.
 
