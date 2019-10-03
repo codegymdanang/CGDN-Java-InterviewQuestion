@@ -145,7 +145,7 @@ Class dùng để chỉ một lớp các đối tượng có chung các thuộc 
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
 Để tạo ấn tượng tốt bạn nên có 1 số project trên github đối với các bài tập lớn của mình hoặc tham gia viết bài trên một blog nào đó về lập trình.<br>
 
-## Database
+## Database https://www.softwaretestinghelp.com/database-interview-questions/
 1. Database là gì ? <br>
 2. Trong database có các mối quan hệ gì ?
    + Quan hệ 1 1 (One-to-one): One table has the relationship with another table having the similar kind of column. Each primary key relates    to only one or no record in the related table.
