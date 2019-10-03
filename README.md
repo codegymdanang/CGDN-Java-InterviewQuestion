@@ -36,6 +36,11 @@ http://levunguyen.com/2019/08/05/su-khac-nhau-giua-linkedlist-va-arraylist-trong
 + Vector với Arraylist <br> 
 + HashTable với HashMap<br>
 https://viettuts.vn/interview/list-cau-hoi-phong-van-java-collection <br>
+3.1 Thuật toán BIG O là gì ? <br>
+3.2 Trong khi thao tác với các collection (ArrayList,LinkedList, như insert , remove , finding thì cái nào nhanh hơn , cái nào chậm hơn.
+3.3 Khi nào dùng 
+
+
 4. Sự khác nhau giữa Hashcode và Equals. <br>
 Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
 5. Sự khác nhau giữa override và overload<br>
@@ -45,8 +50,10 @@ Trả lời: https://stackjava.com/java/hashcode-va-equals-trong-java.html
 https://viettuts.vn/java-new-features/generics-trong-java <br>
 7. Immutable là gì? Cách để tạo đối tượng immutable? <br>
 Trả lời: https://stackjava.com/java/immuable-la-gi.html <br>
+
 8. Sự khác nhau giữa abstract class và Interface.<br>
 Trả lời: http://levunguyen.com/2019/06/18/khac-biet-giua-abstract-va-interface/ <br>
+
 9. Hỏi về thuật toán. <br>
 + Tìm kiếm nhị phân<br>
 + Thuật toán sắp xếp <br>
@@ -59,7 +66,6 @@ Trả lời : <br>
 + Protected modifier khá giống với default modifier, nó hạn chế khả năng truy cập trong cùng 1 package, tuy nhiên với protected modifier thì nó còn cho phép truy cập từ các class con kể cả khi class con không nằm cùng package với class cha. (truy cập theo trường hợp thừa kế) <br>
 + Static : khi mình muốn chia sẽ (dùng chung, và là duy nhất tron cả hệ thống) cái biến đó cho các object khác có thể sử dụng được
 + Final : Khi mình muốn giá trị là hằng số và không thể thay đổi được (Ví dụ final double PI = 3.14)
-
 
 12. Ngoại lệ (Exception là gì) ?
 https://docs.google.com/presentation/d/1gJy6TvLc5RR6Rpx8G2JpEvN2GJejrhKwelRSJnikutg/edit?usp=sharing <br>
