@@ -146,7 +146,12 @@ Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt ng
 Để tạo ấn tượng tốt bạn nên có 1 số project trên github đối với các bài tập lớn của mình hoặc tham gia viết bài trên một blog nào đó về lập trình.<br>
 
 ## Database
-
+1. Database là gì ? <br>
+2. Trong database có các mối quan hệ gì ?
+   + Quan hệ 1 1 (One-to-one): One table has the relationship with another table having the similar kind of column. Each primary key relates    to only one or no record in the related table.
+   + Quan hệ 1 nhiều (One-to-many): One table has a relationship with another table that has primary and foreign key relation. The primary key table contains only one record that relates to none, one or many records in the related table.
+   + Quan hệ nhiều nhiều (Many-to-many): Each record in both the tables can relate to many numbers of record in another table.<br>
+   
 1. SQL là gì? <br>
 Trả lời: SQL là viết tắt của cụm từ "Structured Query Language." - ngôn ngữ truy vấn mang tính cấu trúc. Nó được thiết kế để quản lý dữ liệu trong một hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS). SQL là ngôn ngữ cơ sở dữ liệu, được dùng để tạo, xóa, lấy các hàng và sửa đổi các hàng, … Tất cả hệ quản trị cơ sở dữ liệu (Database Management System - DBMS) như MySQL, Oracle, MS Access, Sybase, Informix, Postgres và SQL Server đều sử dụng SQL như là ngôn ngữ cơ sở dữ liệu chuẩn.<br>
 
@@ -180,6 +185,27 @@ Lệnh TRUNCATE xóa toàn bộ các bản ghỉ từ bảng bằng cách phân 
 Lệnh DROP xóa hoàn toàn một bảng từ cơ sở dữ liệu.<br>
 
 10. Transaction là gì ? <br>
+11. Có bao nhiêu loại câu lệnh SQL được sử dụng many SQL statements are used? 
+Câu lệnh SQL được chia ra thành 3 loại DDL , DML và DCL <br>
+Data Definition Language (DDL) : Các câu lệnh định nghĩa cấu trúc để lưu trữ dữ liệu. <br>
++ CREATE to create a new table or database.
++ ALTER for alteration.
++ Truncate to delete data from the table.
++ DROP to drop a table.
++ RENAME to rename a table.
+Data Manipulation Language (DML): Các câu lệnh thao tác với database<br>
++ INSERT to insert a new row.
++ UPDATE to update an existing row.
++ DELETE to delete a row.
++ MERGE for merging two rows or two tables.
+Data Control Language (DCL): Các câu lệnh dùng để quản lý permission trong cơ sở dử liệu<br>
++ COMMIT to permanently save.
++ ROLLBACK to undo the change.
++ SAVEPOINT to save temporarily.
+12.Model ERD nghĩa là gì ?
+Ans: E-R model is an Entity-Relationship model which defines the conceptual view of the database.
+
+E-R model basically shows the real world entities and their association/relations. Entities here represent the set of attributes in the database.<br>
 
 ## Devops 
 
