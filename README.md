@@ -164,7 +164,9 @@ Trả lời: Một PRIMARY KEY- Khóa chính là một trường trong một b�
 4. Foreign keys là gì? <br>
 Trả lời: FOREIGN KEY - Khóa ngoại là một trường trong bảng cơ sở dữ liệu, đó là khóa chính trong một bảng khác được thêm vào tạo ra sự liên quan giữa hai bảng. Trong bảng, giá trị của FOREIGN KEY có thể chấp nhận giá trị NULL, cũng như các giá trị trùng nhau. <br>
 4. Composit key là gì ?
+is a form of the candidate key where a set of columns will uniquely identify every row in the table. <br>
 5. Unique key là gì?
+A Unique key is same as the primary key whose every row data is uniquely identified with a difference of null value i.e. Unique key allows one value as NULL value.
 5. CHECK Constraint - Ràng buộc CHECK là gì? <br> 
 Trả lời: Một ràng buộc CHECK được sử dụng để giới hạn các giá trị hoặc kiểu của dữ liệu có thể nhập và lưu trữ trong một trường của bản ghi. Nếu bản ghi không đáp ứng được điều kiện này, thì sẽ không được lưu trữ vào trong bảng.<br>
 
