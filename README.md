@@ -139,7 +139,7 @@ Class dùng để chỉ một lớp các đối tượng có chung các thuộc 
 4. Thuộc tính float:left là gì ? <br>
 5. Thuộc tính clear:both dùng để làm gì ? <br>
 6. Phân biệt position : static , absolute , relative , fixed
-
+https://kipalog.com/posts/Tim-hieu-thuoc-tinh-position-trong-CSS <br>
 
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
 Dự án ở đây là các bài tập lớn bạn đã làm, đồ án tốt nghiệp.
