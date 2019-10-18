@@ -40,6 +40,7 @@ https://docs.google.com/presentation/d/1AhJ3XlgEFJIJW8ETvummQBoUkxT2_z5NjJ8XvQoJ
    - Array fix cứng giá trị mảng <br>
    - ArrayList có thể co giản được <br>
 + Sự khác nhau giữa Linkedlist với Arraylist <br>
++ Sự khác nhau của Set và 
 http://levunguyen.com/2019/08/05/su-khac-nhau-giua-linkedlist-va-arraylist-trong-java/<br>
 + Vector với Arraylist <br> 
 + HashTable với HashMap<br>
