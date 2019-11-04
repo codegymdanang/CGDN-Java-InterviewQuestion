@@ -89,7 +89,7 @@ https://docs.google.com/presentation/d/1swUT9shoRZk9VZy3wuxL98IIfShYt-g-Sf1fyP9r
 Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài hàm bị ảnh hưởng. Nó giống như bạn truyền đúng địa chỉ của biến đó vào hàm. <br>
 15. Bộ nhớ máy tính . HEAP và STACK <br>
 16. Sự khác nhau giữa Class và Object <br>
-
+17. Enum là gì cho ví dụ ? <br>
 ## Java Spring
 1.Nguyên lý Inversion of Control là gì? <br>
 IOC : nguyên lý đảo ngược điều khiển. Chúng ta giao cho framework sử lý. Ví dụ như kết nối database, chúng ta giao cho framwork chịu trách nhiệm và điều kiển. 
