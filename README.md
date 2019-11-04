@@ -243,7 +243,7 @@ https://malcoded.com/posts/angular-data-binding/ <br>
 + Directive trong angular là gì > <br>
 + Vòng đời của một component ? https://techblog.vn/lifecycle-hooks-in-angular <br>
 + Rounting là gì ? <br>
-
++ Gọi webservice như thế nào ? Sử lý kết quả trả về từ webservice như thê nào?
 
 
 ## Quản lý công việc
