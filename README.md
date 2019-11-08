@@ -158,6 +158,7 @@ Trả lời: SQL là viết tắt của cụm từ "Structured Query Language." 
 
 2. Định nghĩa từ khóa "JOIN" và các loại "JOIN" khác nhau? <br>
 Trả lời: Từ khóa "JOIN" được sử dụng để lấy dữ liệu từ 2 hay nhiều bảng liên quan. Đây là phép kết hợp các dòng dữ liệu từ nhiều bảng lại với nhau. Khi bạn cần truy vấn các cột dữ liệu từ nhiều bảng khác nhau để trả về trong cùng một tập kết quả, bạn cần dùng từ khóa "JOIN". Các loại JOIN như inner join , outer join : leftjoin , right join and fulljoin <br>
+![SQL](https://user-images.githubusercontent.com/37821007/68453090-22db5100-0227-11ea-8dc0-da75b5934648.jpg)
 
 3. Primary key là gì?  <br>
 Trả lời: Một PRIMARY KEY- Khóa chính là một trường trong một bảng mà nhận diện một cách duy nhất mỗi hàng/bản ghi trong một bảng dữ liệu. Các PRIMARY KEY phải chứa các giá trị duy nhất, không được sử dụng lại. Một cột là PRIMARY KEY thì không được phép có giá trị NULL. Một bảng chỉ cho phép tối đa một PRIMARY KEY, bao gồm một trường đơn hay nhiều trường. Mỗi bảng đều cần có khóa <br>
