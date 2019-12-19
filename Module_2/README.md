@@ -411,3 +411,28 @@ o Use tool to check memory leak
 ## URL fill kết quả audit
 
 * [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
+
+## Youtube Link
+
+* [[Case Study][Module 2]Hướng dẫn cài đặt Intelliji](https://www.youtube.com/watch?v=qvsYyTcSulA&list=PL9yu4ScFhKGyYTjikvXLxpTn2RMJZw3PW)
+* [[Java core][Module 2]Override và Overload]()
+* [[Java core][Module 2]Access Modifier]()
+* [[Java core][Module 2]Các tính chất của OOP]()
+* [[Java core][Module 2]Abstract]()
+* [[Java core][Module 2]Interface]()
+* [[Java core][Module 2]Inheritance]()
+* [[Java core][Module 2]Abstract vs Interface]()
+* [[Java core][Module 2]Ép kiểu ngầm định và tường minh]()
+* [[Java core][Module 2]Bộ nhớ Heap vs Stack]()
+* [[Java core][Module 2]Comparable vs Comparator]()
+* [[Java core][Module 2]Array và ArrayList]()
+* [[Java core][Module 2]Generic]()
+* [[Java core][Module 2]Cài đặt List]()
+* [[Java core][Module 2]Cài đặt LinkedList]()
+* [[Java core][Module 2]OOD]()
+* [[Java core][Module 2]Clean code]()
+* [[Java core][Module 2]Exception]()
+* [[Java core][Module 2]Thread]()
+* [[Java core][Module 2]IO File]()
+* [[Java core][Module 2]Regular Expression]()
+* [[CaseStudy][Java core][Module 2]](https://www.youtube.com/watch?v=qvsYyTcSulA&list=PL9yu4ScFhKGyYTjikvXLxpTn2RMJZw3PW)

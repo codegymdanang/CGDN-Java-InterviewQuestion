@@ -206,3 +206,24 @@ o Global session: same as HTTP session scope, applicable in portlet-based web ap
 ## URL fill kết quả audit
 
 * [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
+
+## Youtube Link
+
+* [[Demo][Module2] Demo tạo ứng dụng servlet](https://www.youtube.com/watch?v=daE0pnE_Q3s&list=PL9yu4ScFhKGyo0bRNxay5QiBTInV_mTPI)
+* [[Demo][Module2] Demo ứng dụng Jsp](youtube.com/watch?v=In9-boiTd88&list=PL9yu4ScFhKGyo0bRNxay5QiBTInV_mTPI&index=2)
+* [[Demo][Module2] Demo CRUD servlet, jsp và jstl](https://www.youtube.com/watch?v=2vH1gTiwOI0&list=PL9yu4ScFhKGyo0bRNxay5QiBTInV_mTPI&index=8)
+* [[Demo][Module 2] tổng quan spring mvc]()
+* [[Demo][Module 2] DI]()
+* [[Demo][Module 2] Form .]()
+* [[Demo][Module2] Demo Tạo SpringMVC bằng IntelliJ](https://www.youtube.com/watch?v=M9Aze3quBKU&list=PL9yu4ScFhKGyo0bRNxay5QiBTInV_mTPI&index=3)
+* [[Demo][Module2]Create Project with SpringBoot](https://www.youtube.com/watch?v=tgK0kZCr8mo&list=PL9yu4ScFhKGyo0bRNxay5QiBTInV_mTPI&index=4)
+* [[Demo][Module2]Demo Thymeleaf](https://www.youtube.com/watch?v=-YCd6W_UVcg&list=PL9yu4ScFhKGyo0bRNxay5QiBTInV_mTPI&index=5)
+* [[Demo][Module2]Demo ModelAndView](https://www.youtube.com/watch?v=vaQxJlfmB6s&list=PL9yu4ScFhKGyo0bRNxay5QiBTInV_mTPI&index=6)
+* [[Demo][Module2]PathVariable và Request Param](https://www.youtube.com/watch?v=luc3zTLri6M&list=PL9yu4ScFhKGyo0bRNxay5QiBTInV_mTPI&index=7)
+* [[Demo][Module 2]Quay video View Resolver]()
+* [[Demo][Module 2] POST, GET , PUT , DELETE]()
+* [[Demo][Module 2]Spring Data Biding]()
+* [[Demo][Module 2]Sử dụng Entity Manager query db]()
+* [[Demo][Module2]Demo Session && Cookie](https://www.youtube.com/watch?v=ym4-rU9R6fM&feature=youtu.be)
+* [[CaseStudy][Module2] Spring](https://www.youtube.com/watch?v=h3eeQvt9X98&list=PL9yu4ScFhKGw6mm6DMtLQ7NodYOd4xz4d)
+* [[CaseStudy][Module 2] Database](https://www.youtube.com/watch?v=obM5UMPGTqc&list=PL9yu4ScFhKGwH2rZGi2CZGrt2DSRccUXe)

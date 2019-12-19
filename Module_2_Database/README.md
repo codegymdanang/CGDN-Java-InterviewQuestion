@@ -147,3 +147,7 @@ having so_luong_hop_dong <=3;
 ## URL fill kết quả audit
 
 * [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
+
+## Youtube Link
+
+* [[CaseStudy][Module 2] Database](https://www.youtube.com/watch?v=obM5UMPGTqc&list=PL9yu4ScFhKGwH2rZGi2CZGrt2DSRccUXe)

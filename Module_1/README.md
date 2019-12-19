@@ -125,3 +125,9 @@ tuyệt đối cả về giá trị lẫn kiểu dữ liệu"
 ## URL fill kết quả audit
 
 * [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
+
+
+## Youtube Link
+
+* [[CaseStudy][Module 1]Java Script](https://www.youtube.com/watch?v=GWTwgFxjKEM&list=PL9yu4ScFhKGwr24i_XvHL5nkRYDpVeYez)
+* [[CaseStudy][Module 1]Bài tập case study](https://www.youtube.com/watch?v=KmRpCrBnpQM&list=PL9yu4ScFhKGwARkCAB-e0P-ebGDNEpjVm)

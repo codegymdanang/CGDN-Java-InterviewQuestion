@@ -70,7 +70,7 @@ Mỗi controller sẽ có 1 scope riêng
 ## [ Câu hỏi ] 16. $http
 ```
 $http is an AngularJS service for reading data from remote servers.
-x```
+```
 ## [ Câu hỏi ] 17. Validation
 ```
 AngularJS can validate input data.
@@ -83,3 +83,13 @@ AngularJS can validate input data.
 ## URL fill kết quả audit
 
 * [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
+
+## Youtube Link
+
+* [[Demo] [Module 3]CSS]()
+* [[Demo] [Module 3]Bootstrap]()
+* [[Demo] [Module 3]Angular - Module]()
+* [[Demo] [Module 3] Angular - Component]()
+* [[Demo] [Module 3] Angular - Route]()
+* [[Demo] [Module 3] Angular - Gọi webservice]()
+* [[Demo] [Module 3]Angular sử dụng bootstrap]()
