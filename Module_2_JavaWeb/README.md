@@ -226,4 +226,3 @@ o Global session: same as HTTP session scope, applicable in portlet-based web ap
 * [[Demo][Module 2]Sử dụng Entity Manager query db]()
 * [[Demo][Module2]Demo Session && Cookie](https://www.youtube.com/watch?v=ym4-rU9R6fM&feature=youtu.be)
 * [[CaseStudy][Module2] Spring](https://www.youtube.com/watch?v=h3eeQvt9X98&list=PL9yu4ScFhKGw6mm6DMtLQ7NodYOd4xz4d)
-* [[CaseStudy][Module 2] Database](https://www.youtube.com/watch?v=obM5UMPGTqc&list=PL9yu4ScFhKGwH2rZGi2CZGrt2DSRccUXe)

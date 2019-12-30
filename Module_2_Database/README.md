@@ -150,4 +150,4 @@ having so_luong_hop_dong <=3;
 
 ## Youtube Link
 
-* [[CaseStudy][Module 2] Database](https://www.youtube.com/watch?v=obM5UMPGTqc&list=PL9yu4ScFhKGwH2rZGi2CZGrt2DSRccUXe)
+* [[CaseStudy][Module 2] Database](https://www.youtube.com/watch?v=TDU7FfxxHMk&list=PL9yu4ScFhKGwH2rZGi2CZGrt2DSRccUXe&index=1)
