@@ -130,4 +130,4 @@ tuyệt đối cả về giá trị lẫn kiểu dữ liệu"
 ## Youtube Link
 
 * [[CaseStudy][Module 1]Java Script](https://www.youtube.com/watch?v=GWTwgFxjKEM&list=PL9yu4ScFhKGwr24i_XvHL5nkRYDpVeYez)
-* [[CaseStudy][Module 1]Bài tập case study](https://www.youtube.com/watch?v=KmRpCrBnpQM&list=PL9yu4ScFhKGwARkCAB-e0P-ebGDNEpjVm)
+* [[CaseStudy][Module 1]Bài tập case study](https://www.youtube.com/watch?v=GWTwgFxjKEM&list=PL9yu4ScFhKGwr24i_XvHL5nkRYDpVeYez)
