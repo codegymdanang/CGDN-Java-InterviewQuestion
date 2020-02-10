@@ -130,3 +130,8 @@ background: -webkit-linear-gradient(left top, #5aaddd , #eb4947);
 ## URL fill kết quả audit
 
 * [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
+
+## Youtube Link
+
+* [[Demo] [Module 3]CSS](https://www.youtube.com/playlist?list=PL9yu4ScFhKGwmjlndpZ56sj4w3ZvkiWgN)
+* [[Demo] [Module 3]Bootstrap](https://www.youtube.com/watch?v=2xSwAsdcwLo&list=PL9yu4ScFhKGyZ9huYpudxdG0j0AJRRZT9)

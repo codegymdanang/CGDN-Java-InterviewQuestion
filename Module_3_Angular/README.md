@@ -86,12 +86,10 @@ AngularJS can validate input data.
 
 ## Youtube Link
 
-* [[Demo] [Module 3]CSS](https://www.youtube.com/playlist?list=PL9yu4ScFhKGwmjlndpZ56sj4w3ZvkiWgN)
-* [[Demo] [Module 3]Bootstrap](https://www.youtube.com/watch?v=2xSwAsdcwLo&list=PL9yu4ScFhKGyZ9huYpudxdG0j0AJRRZT9)
 * [[Demo][Module 3] Promise](https://youtu.be/zwZ_TiTOvgY)
 * [[Demo] [Module 3]Angular - Module](https://www.youtube.com/watch?v=ojjwIZIPS90&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=23)
 * [[Demo] [Module 3] Angular - Component](https://www.youtube.com/watch?v=IJmaPNsXnR8&feature=youtu.be)
-* [[Demo] [Module 3] Angular - Route]()
+* [[Demo] [Module 3] Angular - Route](https://www.youtube.com/watch?v=T0SStIrwZRw&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=26)
 * [[Demo] [Module 3] Angular - Gọi webservice](https://youtu.be/edYsCowgQq0)
-* [[Demo] [Module 3]Angular sử dụng bootstrap]()
+* [[Demo] [Module 3] Angular sử dụng bootstrap](https://www.youtube.com/watch?v=977WIZTAUv8&feature=youtu.be)
 * [[CaseStudy][Module 3] Web front end](https://www.youtube.com/watch?v=g290MX4YWJA&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=19)
