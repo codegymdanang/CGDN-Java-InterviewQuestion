@@ -4,7 +4,7 @@
 
 ## [ Câu hỏi ] 1. Có bao nhiêu Statement control trong Java Script  ?
 ```
-Gồm có: if else, do while , while, for
+Gồm có: if else, do while , while, for, swith case
 ```
 ## [ Câu hỏi ] 2. So sánh giống và khác nhau giữa for, while và do..while
 ```
