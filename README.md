@@ -104,7 +104,9 @@ Có hai loại IoC Container, đó là: BeanFactory , ApplicationContext <br>
 2. AOP là gì ? Cho ví dụ minh hoạ <br>
 3. SpringBoot làm gì ? <br>
 4. Vòng đời của 1 Bean <br>
-5. Scope của 1 bean gồm những scope nào ?
+5. Scope của 1 bean gồm những scope nào ?<br>
+6. Mô hình MVC là gì ?
+6. Giải thích luồng đi của ứng dụng springmvc ? <br>
 5. Giải thích @Autowire làm gì ? <br>
 6. Giải thích @Controller , @Service , @Repository , @Resfult <br>
 7. Giải thích JPA là gì ? <br>
