@@ -115,7 +115,8 @@ Có hai loại IoC Container, đó là: BeanFactory , ApplicationContext <br>
 12. Cache nghĩa là gì ? <br>
 13. Mô hình MVC là gì ? Giải thích ? <br>
 14. Truyền dữ liệu từ Controller tới View thì dùng cái gì ? <br>
-15. JWT là gì ?
+15. JWT là gì ? <br>
+https://docs.google.com/presentation/d/1p_BXFc46BCcJpMUKAOr3vcH41JhakCbnH6_7-qSQjVw/edit#slide=id.p2 <br>
 
 ## HTML
 1. HTML là gì ? <br>
