@@ -114,7 +114,7 @@ Có hai loại IoC Container, đó là: BeanFactory , ApplicationContext <br>
 10. Maven dùng để làm gì ? <br>
 11. Sự khác nhau giữa Session và Cookie ? <br>
 12. Cache nghĩa là gì ? <br>
-13. Mô hình MVC là gì ? Giải thích ? <br>
+13. Mô hình MVC là gì ? Nhiệm vụ của M là gì , V là gì ,và C là gì ? <br>
 14. Truyền dữ liệu từ Controller tới View thì dùng cái gì ? <br>
 15. JWT là gì ? <br>
 https://docs.google.com/presentation/d/1p_BXFc46BCcJpMUKAOr3vcH41JhakCbnH6_7-qSQjVw/edit#slide=id.p2 <br>
