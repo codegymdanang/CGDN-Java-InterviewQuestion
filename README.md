@@ -29,10 +29,10 @@ https://docs.google.com/presentation/d/1AhJ3XlgEFJIJW8ETvummQBoUkxT2_z5NjJ8XvQoJ
 3.1 ArrayList là gì ? Khi nào dùng ArrayList <br>
 3.2 LinkedList là gì ? Khi nào dùng Linkedlist  <br>
 3.2 Vector là gì ? Khi nào dùng Vector?<br>
-3.3 Stack là gì ? Khi nào dùng Stack <br>
-3.4 Queuu là gì ? Khi nào dùng Queue <br>
-3.5 Set là gì ? Khi nào dùng Set <br>
-3.6 Map là gì ? Khi nào dùng Map <br>
+3.3 Stack hoạt đông như thế nào ? Khi nào dùng Stack <br>
+3.4 Queuu hoạt đông như thế nào  ? Khi nào dùng Queue <br>
+3.5 Set hoạt đông như thế nào  ? Khi nào dùng Set <br>
+3.6 Map hoạt đông như thế nào  ? Khi nào dùng Map <br>
 3.7 Phân biệt TreeSet, HashSet và EnumSet ? Khi nào thì dùng <br>
 3.8 Phân biệt ArrayList , Linkedlist và Vector ? Khi nào thì dùn
 3.9 Sự khác nhau giữa Set với List <br>
