@@ -80,7 +80,7 @@ Khi chúng ta lập trình thì sẽ có những trường hợp có thể xảy
 12. Check va Uncheck la gi? <br>
 https://docs.google.com/presentation/d/1gJy6TvLc5RR6Rpx8G2JpEvN2GJejrhKwelRSJnikutg/edit?usp=sharing <br>
 13. Try/Catch/Finally <br>
-14. Phân biệt pass-by-value và pass-by-reference và bộ nhớ máy tính <br>
+14. Phân biệt pass-by-value (tham trị)  và pass-by-reference (tham chiếu) và bộ nhớ máy tính <br>
 https://docs.google.com/presentation/d/1swUT9shoRZk9VZy3wuxL98IIfShYt-g-Sf1fyP9rbVI/edit?usp=sharing <br>
 - CPU xử lý dữ liệu thông qua địa chỉ bộ nhớ nên thứ được truyền vào hàm luôn luôn là địa chỉ bộ nhớ chứ không phải là giá trị.<br>
 - Khi chương trình thực thi, dữ liệu trên RAM có thể được lưu trữ trên stack hoặc heap nhưng việc tham chiếu bằng địa chỉ giữa các biến là như nhau nên để cho đơn giản mình sẽ giả sử chúng chỉ được lưu trữ trên stack. <br>
