@@ -131,7 +131,8 @@ Trả lời : Canvas là một khoảng trống HTML được sử dụng để 
 ## Java Script
 1. Javascript dùng để làm gì? <br>
 Trả lời : javascript là ngôn ngữ lập trình kịch bản hướng đối tượng được phát triển bởi Netscape Communications cho các ứng dụng client/server. Javascript là một ngôn ngữ lập trình thông dịch. JavaScript hiển thị các trang web theo cách tương tác và năng động góp phần tạo nên trang web động. Điều này cho phép các trang bắt các sự kiện, hiện thị các hiệu ứng đặc biệt, tự động tạo nội dung HTML, xác thực dữ liệu, tạo cookie, lấy thông tin trình duyệt của người dùng <br>
-2. “this” trong Javascript dùng để làm gì?
+2. “this” trong Javascript dùng để làm gì? <br>
+3. Jquery là gì ? Lợi ích của Jquery trong làm web?
 ## CSS
 1. CSS framework là gì? <br>
 2. Phân biệt Class và ID như thế nào trong CSS? <br>
@@ -144,6 +145,7 @@ Class dùng để chỉ một lớp các đối tượng có chung các thuộc 
 4. Thuộc tính float:left là gì ? <br>
 5. Thuộc tính clear:both dùng để làm gì ? <br>
 6. Phân biệt position : static , absolute , relative , fixed
+7. Bootstrap là gì ? Lợi ích của bootstrap
 https://kipalog.com/posts/Tim-hieu-thuoc-tinh-position-trong-CSS <br>
 
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
