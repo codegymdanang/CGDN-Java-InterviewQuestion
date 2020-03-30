@@ -86,11 +86,10 @@ AngularJS can validate input data.
 
 ## Youtube Link
 
-* [[Demo][Module 3] Promise](https://youtu.be/zwZ_TiTOvgY)
-* [[Demo] [Module 3]Angular - Module](https://www.youtube.com/watch?v=ojjwIZIPS90&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=23)
-* [[Demo] [Module 3] Angular - Component](https://www.youtube.com/watch?v=IJmaPNsXnR8&feature=youtu.be)
-* [[Demo] [Module 3] Angular - Route](https://www.youtube.com/watch?v=T0SStIrwZRw&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=26)
-* [[Demo] [Module 3] Angular - Gọi webservice](https://youtu.be/edYsCowgQq0)
-* [[Demo] [Module 3]Angular sử dụng bootstrap](https://www.youtube.com/watch?v=977WIZTAUv8&feature=youtu.be)
-* [[CaseStudy][Module 3] Web front end](https://www.youtube.com/watch?v=g290MX4YWJA&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=19)
-
+* [[FrontEnd] Promise](https://youtu.be/zwZ_TiTOvgY)
+* [[FrontEnd] Angular Module](https://www.youtube.com/watch?v=ojjwIZIPS90&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=23)
+* [[FrontEnd] Angular Component](https://www.youtube.com/watch?v=IJmaPNsXnR8&feature=youtu.be)
+* [[FrontEnd] Angular Router](https://www.youtube.com/watch?v=T0SStIrwZRw&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=26)
+* [[FrontEnd] Angular - Webservices](https://youtu.be/edYsCowgQq0)
+* [[FrontEnd] Angular use Bootstrap](https://www.youtube.com/watch?v=977WIZTAUv8&feature=youtu.be)
+* [[CaseStudy] Web front end](https://www.youtube.com/watch?v=g290MX4YWJA&list=PL9yu4ScFhKGxsSu-6vlG6fkz-1GoVZzIM&index=19)

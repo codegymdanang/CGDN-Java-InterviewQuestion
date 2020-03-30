@@ -150,4 +150,6 @@ having so_luong_hop_dong <=3;
 
 ## Youtube Link
 
-* [[CaseStudy][Module 2] Database](https://www.youtube.com/watch?v=obM5UMPGTqc&list=PL9yu4ScFhKGwH2rZGi2CZGrt2DSRccUXe)
+* [[CaseStudy] Query database](https://www.youtube.com/watch?v=obM5UMPGTqc&list=PL9yu4ScFhKGwH2rZGi2CZGrt2DSRccUXe)
+* [[Database] Design ERD]()
+* [[Database] Normalization](https://www.youtube.com/watch?v=rMJu2gTawz0&list=PL9yu4ScFhKGyc-L5a6n0cbfe8X4J3cmS_&index=2&t=0s)

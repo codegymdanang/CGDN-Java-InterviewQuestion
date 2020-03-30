@@ -129,5 +129,6 @@ tuyệt đối cả về giá trị lẫn kiểu dữ liệu"
 
 ## Youtube Link
 
-* [[CaseStudy][Module 1]Java Script](https://www.youtube.com/watch?v=KmRpCrBnpQM&list=PL9yu4ScFhKGwARkCAB-e0P-ebGDNEpjVm)
-* [[CaseStudy][Module 1]Bài tập case study](https://www.youtube.com/watch?v=GWTwgFxjKEM&list=PL9yu4ScFhKGwr24i_XvHL5nkRYDpVeYez)
+* [[Install] Cài đặt webstorm](https://www.youtube.com/watch?v=KmRpCrBnpQM&list=PL9yu4ScFhKGwARkCAB-e0P-ebGDNEpjVm)
+* [[GIT] Cài đặt và thực hiện các lệnh GIT cơ bản](https://www.youtube.com/watch?v=tLsFNLar1y4&list=PL9yu4ScFhKGwARkCAB-e0P-ebGDNEpjVm&index=3)
+* [[CaseStudy] Case study Bootcamp Preparation](https://www.youtube.com/watch?v=8fvxPxDM3kk&list=PL9yu4ScFhKGwr24i_XvHL5nkRYDpVeYez)
