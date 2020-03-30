@@ -29,10 +29,10 @@ https://docs.google.com/presentation/d/1AhJ3XlgEFJIJW8ETvummQBoUkxT2_z5NjJ8XvQoJ
 3.1 ArrayList là gì ? Khi nào dùng ArrayList <br>
 3.2 LinkedList là gì ? Khi nào dùng Linkedlist  <br>
 3.2 Vector là gì ? Khi nào dùng Vector?<br>
-3.3 Stack là gì ? Khi nào dùng Stack <br>
-3.4 Queuu là gì ? Khi nào dùng Queue <br>
-3.5 Set là gì ? Khi nào dùng Set <br>
-3.6 Map là gì ? Khi nào dùng Map <br>
+3.3 Stack hoạt đông như thế nào ? Khi nào dùng Stack <br>
+3.4 Queuu hoạt đông như thế nào  ? Khi nào dùng Queue <br>
+3.5 Set hoạt đông như thế nào  ? Khi nào dùng Set <br>
+3.6 Map hoạt đông như thế nào  ? Khi nào dùng Map <br>
 3.7 Phân biệt TreeSet, HashSet và EnumSet ? Khi nào thì dùng <br>
 3.8 Phân biệt ArrayList , Linkedlist và Vector ? Khi nào thì dùn
 3.9 Sự khác nhau giữa Set với List <br>
@@ -77,9 +77,10 @@ Trả lời : <br>
 12. Ngoại lệ (Exception là gì) ?
 https://docs.google.com/presentation/d/1gJy6TvLc5RR6Rpx8G2JpEvN2GJejrhKwelRSJnikutg/edit?usp=sharing <br>
 Khi chúng ta lập trình thì sẽ có những trường hợp có thể xảy ra lỗi . Ví dụ lấy 1 số nguyên chia cho 0. Khi mình thực thi chương trình thì nó sẽ báo ra lỗi Java.lang.ArithmeticException . Trong lập trình mình có rất nhiều Ngoại lệ . Nếu mình đoán được các ngoại lệ có thể xảy ra thì mình có thể dùng try và catch để xử lý ngoại lệ đó. Ngoại lệ rất nguyên hiểm có thể làm chương trình bị đứng . Bắt được ngoại lệ và giải quyết nó giúp chương trình tiếp tục chạy như bình 
-12. Check va Uncheck la gi? 
+12. Check va Uncheck la gi? <br>
+https://docs.google.com/presentation/d/1gJy6TvLc5RR6Rpx8G2JpEvN2GJejrhKwelRSJnikutg/edit?usp=sharing <br>
 13. Try/Catch/Finally <br>
-14. Phân biệt pass-by-value và pass-by-reference và bộ nhớ máy tính <br>
+14. Phân biệt pass-by-value (tham trị)  và pass-by-reference (tham chiếu) và bộ nhớ máy tính <br>
 https://docs.google.com/presentation/d/1swUT9shoRZk9VZy3wuxL98IIfShYt-g-Sf1fyP9rbVI/edit?usp=sharing <br>
 - CPU xử lý dữ liệu thông qua địa chỉ bộ nhớ nên thứ được truyền vào hàm luôn luôn là địa chỉ bộ nhớ chứ không phải là giá trị.<br>
 - Khi chương trình thực thi, dữ liệu trên RAM có thể được lưu trữ trên stack hoặc heap nhưng việc tham chiếu bằng địa chỉ giữa các biến là như nhau nên để cho đơn giản mình sẽ giả sử chúng chỉ được lưu trữ trên stack. <br>
@@ -103,6 +104,8 @@ Có hai loại IoC Container, đó là: BeanFactory , ApplicationContext <br>
 2. AOP là gì ? Cho ví dụ minh hoạ <br>
 3. SpringBoot làm gì ? <br>
 4. Vòng đời của 1 Bean <br>
+5. Scope của 1 bean gồm những scope nào ?<br>
+6. Giải thích luồng đi của ứng dụng springmvc ? <br>
 5. Giải thích @Autowire làm gì ? <br>
 6. Giải thích @Controller , @Service , @Repository , @Resfult <br>
 7. Giải thích JPA là gì ? <br>
@@ -111,9 +114,10 @@ Có hai loại IoC Container, đó là: BeanFactory , ApplicationContext <br>
 10. Maven dùng để làm gì ? <br>
 11. Sự khác nhau giữa Session và Cookie ? <br>
 12. Cache nghĩa là gì ? <br>
-13. Mô hình MVC là gì ? Giải thích ? <br>
+13. Mô hình MVC là gì ? Nhiệm vụ của M là gì , V là gì ,và C là gì ? <br>
 14. Truyền dữ liệu từ Controller tới View thì dùng cái gì ? <br>
-15. JWT là gì ?
+15. JWT là gì ? <br>
+https://docs.google.com/presentation/d/1p_BXFc46BCcJpMUKAOr3vcH41JhakCbnH6_7-qSQjVw/edit#slide=id.p2 <br>
 
 ## HTML
 1. HTML là gì ? <br>
@@ -127,7 +131,8 @@ Trả lời : Canvas là một khoảng trống HTML được sử dụng để 
 ## Java Script
 1. Javascript dùng để làm gì? <br>
 Trả lời : javascript là ngôn ngữ lập trình kịch bản hướng đối tượng được phát triển bởi Netscape Communications cho các ứng dụng client/server. Javascript là một ngôn ngữ lập trình thông dịch. JavaScript hiển thị các trang web theo cách tương tác và năng động góp phần tạo nên trang web động. Điều này cho phép các trang bắt các sự kiện, hiện thị các hiệu ứng đặc biệt, tự động tạo nội dung HTML, xác thực dữ liệu, tạo cookie, lấy thông tin trình duyệt của người dùng <br>
-2. “this” trong Javascript dùng để làm gì?
+2. “this” trong Javascript dùng để làm gì? <br>
+3. Jquery là gì ? Lợi ích của Jquery trong làm web?
 ## CSS
 1. CSS framework là gì? <br>
 2. Phân biệt Class và ID như thế nào trong CSS? <br>
@@ -140,6 +145,7 @@ Class dùng để chỉ một lớp các đối tượng có chung các thuộc 
 4. Thuộc tính float:left là gì ? <br>
 5. Thuộc tính clear:both dùng để làm gì ? <br>
 6. Phân biệt position : static , absolute , relative , fixed
+7. Bootstrap là gì ? Lợi ích của bootstrap
 https://kipalog.com/posts/Tim-hieu-thuoc-tinh-position-trong-CSS <br>
 
 10. Hỏi về các dự án bạn đã làm, nghiên cứu.<br>
