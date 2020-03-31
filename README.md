@@ -92,9 +92,9 @@ Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài 
 16. Sự khác nhau giữa Class và Object <br>
 17. Enum là gì cho ví dụ ? <br>
 ## Java Spring
-0. @RequestMaping là gì?
-0 Phương thức POST và GET khác nhau như thế nào.
-0.Em hiểu mô hình MVC là như thế nào. Nêu ưu điểm của mô hình MVC.
+0. @RequestMaping là gì? <br>
+0. Phương thức POST và GET khác nhau như thế nào <br>
+0. Truyền dữ liệu từ Controller qua view bằng gì <br>
 1.Nguyên lý Inversion of Control là gì? <br>
 IOC : nguyên lý đảo ngược điều khiển. Chúng ta giao cho framework sử lý. Ví dụ như kết nối database, chúng ta giao cho framwork chịu trách nhiệm và điều kiển. 
 http://acegik.net/blog/java/spring/core/tong-quan-ve-ioc-trong-spring.html
