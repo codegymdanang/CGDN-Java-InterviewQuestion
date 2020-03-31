@@ -61,6 +61,7 @@ Trả lời: https://stackjava.com/java/immuable-la-gi.html <br>
 8. Sự khác nhau giữa abstract class và Interface.<br>
 Trả lời: https://docs.google.com/presentation/d/1K8f4L0PdSqId76n9ueSDDfRxx9_qQm-AaXs6pCV_yAA/edit?usp=sharing <br>
 
+
 9. Hỏi về thuật toán. <br>
 + Tìm kiếm nhị phân<br>
 + Thuật toán sắp xếp <br>
