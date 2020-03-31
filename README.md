@@ -95,6 +95,7 @@ Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài 
 18. Sự khác nhau giữa comparable và comparator <br>
 https://viettuts.vn/java-collection/su-khac-nhau-giua-comparable-va-comparator 
 19. phân biệt toán tử "==" và equals()? <br>
+20. So sánh do-while và while
 ## Java Spring
 0. @RequestMaping là gì? <br>
 0. Phương thức POST và GET khác nhau như thế nào <br>
