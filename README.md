@@ -94,6 +94,7 @@ Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài 
 17. Enum là gì cho ví dụ ? <br>
 18. Sự khác nhau giữa comparable và comparator <br>
 https://viettuts.vn/java-collection/su-khac-nhau-giua-comparable-va-comparator 
+19. phân biệt toán tử "==" và equals()? <br>
 ## Java Spring
 0. @RequestMaping là gì? <br>
 0. Phương thức POST và GET khác nhau như thế nào <br>
