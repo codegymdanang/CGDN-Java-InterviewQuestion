@@ -59,7 +59,8 @@ https://viettuts.vn/java-new-features/generics-trong-java <br>
 Trả lời: https://stackjava.com/java/immuable-la-gi.html <br>
 
 8. Sự khác nhau giữa abstract class và Interface.<br>
-Trả lời: http://levunguyen.com/2019/06/18/khac-biet-giua-abstract-va-interface/ <br>
+Trả lời: https://docs.google.com/presentation/d/1K8f4L0PdSqId76n9ueSDDfRxx9_qQm-AaXs6pCV_yAA/edit?usp=sharing <br>
+
 
 9. Hỏi về thuật toán. <br>
 + Tìm kiếm nhị phân<br>
@@ -91,7 +92,14 @@ Pass-by-reference là khi bạn thay đổi biến trong hàm cũng làm ngoài 
 15. Bộ nhớ máy tính . HEAP và STACK <br>
 16. Sự khác nhau giữa Class và Object <br>
 17. Enum là gì cho ví dụ ? <br>
+18. Sự khác nhau giữa comparable và comparator <br>
+https://viettuts.vn/java-collection/su-khac-nhau-giua-comparable-va-comparator 
+19. phân biệt toán tử "==" và equals()? <br>
+20. So sánh do-while và while
 ## Java Spring
+0. @RequestMaping là gì? <br>
+0. Phương thức POST và GET khác nhau như thế nào <br>
+0. Truyền dữ liệu từ Controller qua view bằng gì <br>
 1.Nguyên lý Inversion of Control là gì? <br>
 IOC : nguyên lý đảo ngược điều khiển. Chúng ta giao cho framework sử lý. Ví dụ như kết nối database, chúng ta giao cho framwork chịu trách nhiệm và điều kiển. 
 http://acegik.net/blog/java/spring/core/tong-quan-ve-ioc-trong-spring.html
