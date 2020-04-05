@@ -203,9 +203,6 @@ o Global session: same as HTTP session scope, applicable in portlet-based web ap
 ## Mục tiêu
 
 * Audit module 2 Java Web
-## URL fill kết quả audit
-
-* [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
 
 ## Youtube Link
 

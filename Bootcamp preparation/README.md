@@ -122,10 +122,6 @@ tuyệt đối cả về giá trị lẫn kiểu dữ liệu"
 ## Mục tiêu
 
 * Audit module 1
-## URL fill kết quả audit
-
-* [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
-
 
 ## Youtube Link
 

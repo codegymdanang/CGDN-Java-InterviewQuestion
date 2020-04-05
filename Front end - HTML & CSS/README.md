@@ -127,9 +127,6 @@ background: -webkit-linear-gradient(left top, #5aaddd , #eb4947);
 ## Mục tiêu
 
 * Audit Module 3 HTML-CSS
-## URL fill kết quả audit
-
-* [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
 
 ## Youtube Link
 

@@ -408,9 +408,6 @@ o Use tool to check memory leak
 ## Mục tiêu
 
 * Audit Module 2 - JavaCore
-## URL fill kết quả audit
-
-* [https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381](https://docs.google.com/spreadsheets/d/1cRw6Aqou1YGZfaCjn2HHv4pUQrunx3_G/edit#gid=105659381)
 
 ## Youtube Link
 
