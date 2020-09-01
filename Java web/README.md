@@ -196,9 +196,64 @@ o Request: new object for each HTTP request
 o Session: new session is created -> new instance object of bean
 o Global session: same as HTTP session scope, applicable in portlet-based web app
 ```
-
-
-
+## [ Câu hỏi ] 30. Sự khác nhau giữa 2 phương thức Get và Post.
+```
+- Điểm chung: là các HTTP method dùng để trao đổi dữ liệu giữa client và server.
+- Điểm khác nhau:
+o POST: Bảo mật hơn GET vì dữ liệu được gửi ngầm, không xuất hiện trên URL
+o GET: Dữ liệu được gửi tường minh, chúng ta có thể nhìn thấy trên URL, đây là lý do khiến nó không bảo mật so với POST.
+o GET thực thi nhanh hơn POST vì những dữ liệu gủi đi luôn được webbrowser cached lại.
+o Khi dùng phương thức POST thì server luôn thực thi và trả về kết quả cho client, còn phương thức GET ứng với cùng một yêu cầu đó webbrowser sẽ xem trong cached có kết quả tương ứng với yêu cầu đó không và trả về ngay không cần phải thực thi các yêu cầu đó ở phía server.
+o Đối với những dữ liệu luôn được thay đổi thì chúng ta nên sử dụng phương thức POST, còn dữ liệu ít thay đổi chúng ta dùng phương thức GET để truy xuất và xử lý nhanh hơn.Quan
+```
+## [ Câu hỏi ] 31. Mô hình MVC là gì.
+```
+Mô hình MVC (Model – View – Controller) là một kiến trúc phần mềm hay mô hình thiết kế được sử dụng trong kỹ thuật phần mềm. Nó giúp cho các developer tách ứng dụng của họ ra 3 thành phần khác nhau Model, View và Controller. Mỗi thành phần có một nhiệm vụ riêng biệt và độc lập với các thành phần khác
+```
+## [ Câu hỏi ] 32. Dependency Injection và IoC là gì.
+```
+- Inversion of Control: Đây là một design pattern được tạo ra để code có thể tuân thủ nguyên lý Dependency Inversion. Có nhiều cách hiện thực pattern này: ServiceLocator, Event, Delegate, … Dependency Injection là một trong các cách đó.
+- Dependency Injection: Đây là một cách để hiện thực Inversion of Control Pattern (Có thể coi nó là một design pattern riêng cũng được). Các module phụ thuộc (dependency) sẽ được inject vào module cấp cao.
+```
+## [ Câu hỏi ] 33. Cơ chế hoạt động của FrontController trong Spring.
+```
+Tất cả các request phải đi qua Front-controller, front controller sẽ đưa request đến Controller phù hợp cũng như đưa dữ liệu đến view phù hợp
+```
+## [ Câu hỏi ] 34. Các cách để nhận dữ liệu từ view trong  Spring controller.
+```
+@RequestMapping, @PathVariable, @ModelAttribute...
+```
+## [ Câu hỏi ] 35. Databinding trong Spring?.
+```
+Giải thích rõ về cách controller đưa object xuống view để nhận dữ liệu
+```
+## [ Câu hỏi ] 36. ORM là gì?.
+```
+Object Relation Mapping
+```
+## [ Câu hỏi ] 37. Phân biệt Session và cookie.
+```
+- Cookie
+o Dữ liệu cookie được lưu trữ ở phía client.
+o Dữ liệu cookie dễ dàng sửa đổi hoặc đánh cắp khi chúng được lưu trữ ở phía client.
+o Dữ liệu cookie có sẵn trong trình duyệt đến khi expired.
+- Session
+o Dữ liệu session được lưu trữ ở phía server.
+o Dữ liệu session không dễ dàng sửa đổi vì chúng được lưu trữ ở phía máy chủ.
+o Sau khi đóng trình duyệt sẽ hết phiên làm việc (session)
+```
+## [ Câu hỏi ] 38. Phân biệt @NotNull, @NotEmpty, @NotBlank trong Spring Validation.
+```
+Dựa vào giá trị nhận được từ ô input là null, rỗng, hay "   "
+```
+## [ Câu hỏi ] 39. Spring Sercurity hoạt động như thế nào.
+```
+Giải thích cách xác thực, cách nhận dữ liệu từ đâu để xác thực, cách config để Spring sercurity làm việc
+```
+## [ Câu hỏi ] 40. Formatter và Converter dùng để làm gì.
+```
+Dùng để chuyển đổi dữ liệu từ ô input sang kiểu dữ liệu phù hợp với đối tượng
+```
 
 ## Mục tiêu
 
